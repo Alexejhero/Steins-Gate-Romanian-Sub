@@ -31,7 +31,7 @@
 <i>Pentru un pact crud și o alegere…
 
 9
-00:00:45,990 --> 00:00:47,850
+00:00:45,625 --> 00:00:47,850
 <i>Hacking to the Gate
 
 10

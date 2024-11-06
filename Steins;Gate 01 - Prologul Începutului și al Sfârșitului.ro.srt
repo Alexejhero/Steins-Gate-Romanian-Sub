@@ -46,7 +46,7 @@ Hai să mergem.
 
 12
 00:01:04,690 --> 00:01:09,690
-<font face="ElicitSSK" color="#999999">Prologul Începutului și al Sfârșitului</font>
+<font color="#999999">Prologul Începutului și al Sfârșitului</font>
 
 13
 00:01:13,840 --> 00:01:15,780
@@ -658,7 +658,7 @@ Ce tot spui...
 <i>Pentru un pact crud și o alegere…
 
 158
-00:11:33,750 --> 00:11:35,610
+00:11:33,385 --> 00:11:35,610
 <i>Hacking to the Gate
 
 159
