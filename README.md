@@ -1,11 +1,11 @@
-## Steins;Gate Romanian Subtitles
+## Subtitrări în română pentru Steins;Gate
 
-Translation and localization done by me, Alexejhero
+Traducerea și adaptarea făcută de mine, Alexejhero.
 
-The original Japanese audio, as well as the official English subtitles were used as a reference
+Sunetul original în japoneză, cât și subtitrările oficiale în engleză au fost folosite ca referințe. Am folosit de asemenea varianta dublată în engleză pentru idei atunci când erau propoziții ce nu se puteau traduce.
 
-OP and ED lyrics were translated by using a combination of DeepL and GPT-4o, as well as manual translation
+Doamne ajuta-mă, cred că mă împușc cu Faris.
 
-Contributions welcome.
+Versurile pentru OP și ED au fost traduse folosind o combinație între DeepL si GPT-4o, cât și traducere manuală
 
-Subtitle timestamps taken from UTW & Mazui's subtitles. Thank you.
+Sincronizarea subtitrărilor a fost făcută folosind alte subtitrări pe care le-am găsit pe internet

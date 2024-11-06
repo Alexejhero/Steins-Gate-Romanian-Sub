@@ -16,7 +16,7 @@ Stelele, de asemenea, au un început,
 
 5
 00:00:16,970 --> 00:00:19,480
-dar puterea lor le distruge.
+dar propria lor putere le distruge.
 
 6
 00:00:20,440 --> 00:00:21,390
@@ -24,8 +24,8 @@ Finit.
 
 7
 00:00:23,650 --> 00:00:27,360
-Cei ce posedă înțelepciune
-sunt cei mai nerozi dintre toți.
+Cei ce posedă înțelepciune sunt
+adesea cei mai nerozi dintre toți.
 
 8
 00:00:28,110 --> 00:00:29,860
@@ -34,7 +34,7 @@ Istoria ne-a dovedit acest lucru.
 9
 00:00:31,820 --> 00:00:37,790
 Ai putea spune că acesta este ultimul avertisment
-al lui Dumnezeu pentru cei care rezistă.
+divin pentru cei care se împotrivesc.
 
 10
 00:00:41,000 --> 00:00:42,460
@@ -54,7 +54,7 @@ Sunt pe cale să mă infiltrez.
 
 14
 00:01:15,780 --> 00:01:18,540
-El Psy Congroo.
+El Psy Kongroo.
 
 15
 00:01:23,750 --> 00:01:25,280
@@ -62,7 +62,7 @@ Nu sunt mulți oameni aici...
 
 16
 00:01:25,280 --> 00:01:28,460
-Aceasta trebuie să fie ingerința Organizației.
+Cu siguranță, asta e mâna Organizației.
 
 17
 00:01:28,460 --> 00:01:30,550
@@ -80,7 +80,7 @@ Ooh, o mașină a timpului.
 00:01:36,622 --> 00:01:39,500
 {\an8}
 
-<font color=#888888>Conferința de presă a Doctorului Nakabachi despre mașinile timpului
+<font color=#888888>Conferința de presă a doctorului Nakabachi despre mașinile timpului
 
 21
 00:01:38,050 --> 00:01:39,470
@@ -88,7 +88,7 @@ Incredibil.
 
 22
 00:01:40,270 --> 00:01:43,991
-Dr. Nakabachi a luat-o
+Doctorul Nakabachi a luat-o
 înaintea grupurilor de cercetare
 
 23
@@ -184,7 +184,7 @@ Mulțumesc, Okarin!
 
 45
 00:03:19,950 --> 00:03:25,080
-Conferința lui Dr. Nakabachi va
+Conferința doctorului Nakabachi va
 începe acum în sala de la etajul opt.
 
 46
@@ -232,7 +232,7 @@ unghiuri despre cum ar trebui să fie structura sa.
 
 55
 00:03:59,820 --> 00:04:02,490
-DOCTORULE!
+DOCTORE!
 
 56
 00:04:02,490 --> 00:04:03,820
@@ -269,7 +269,7 @@ Cât de nepoliticos, bineînțeles că știu asta!
 
 64
 00:04:24,010 --> 00:04:27,180
-Nu compara teoria mea cu tâmpenia aceea!
+Nu-mi compara teoria cu prostiile acelea!
 
 65
 00:04:27,180 --> 00:04:29,910
@@ -277,7 +277,7 @@ Atunci explică-ne, te rugăm,
 
 66
 00:04:29,935 --> 00:04:34,030
-diferențele dintre teoria 
+diferențele dintre teoria
 ta și cea a lui Titor!
 
 67
@@ -420,8 +420,8 @@ Văd prin tine ca prin sticlă.
 
 100
 00:06:13,710 --> 00:06:17,330
-Draga mea fată genială,
-la următoarea noastră întâlnire vom fi dușmani.
+Draga mea fată genială, data viitoare
+când ne vom întâlni, vom fi dușmani.
 
 101
 00:06:17,750 --> 00:06:18,450
@@ -486,7 +486,7 @@ Upa-urile din metal valorează peste
 
 116
 00:07:12,510 --> 00:07:13,930
-Găsește-l!
+Caută-l!
 
 117
 00:07:13,930 --> 00:07:17,600
@@ -495,7 +495,7 @@ să ajungă la fundul sacului!
 
 118
 00:07:18,520 --> 00:07:20,580
-Nu îl vând chiar dacă îl găsim.
+Nu-l voi vinde, chiar dacă îl găsim.
 
 119
 00:07:20,580 --> 00:07:25,820
@@ -635,7 +635,7 @@ Ce tot spui...
 
 152
 00:10:59,940 --> 00:11:04,975
-<i>Chiar dacă te lași prins de trecut și te plângi de viitor,
+<i>Chiar dacă te frămânți cu gândul la viitor, cufundat încă în trecut,
 
 153
 00:11:05,000 --> 00:11:10,845
@@ -675,7 +675,7 @@ Ce tot spui...
 
 162
 00:11:54,840 --> 00:12:01,060
-<i>Devenind un observator al singurătății.
+<i>Devenind un observator izolat al singurătății.
 
 163
 00:12:04,450 --> 00:12:05,870
@@ -683,7 +683,7 @@ Hei, tu, mizerabilule!
 
 164
 00:12:06,740 --> 00:12:08,540
-Poți să ne vezi?
+Ne poți vedea?
 
 165
 00:12:09,040 --> 00:12:10,870
@@ -703,7 +703,7 @@ Acesta este Laboratorul de Invenții ale Viitorului.
 
 169
 00:12:19,300 --> 00:12:21,800
-Permiteți-mi să vă prezint membrii laboratorului.
+Dați-mi voie să vă prezint membrii laboratorului.
 
 170
 00:12:21,800 --> 00:12:24,760
@@ -711,7 +711,7 @@ Permiteți-mi să vă prezint membrii laboratorului.
 
 171
 00:12:24,760 --> 00:12:28,140
-Fondatorul laboratorului și 
+Fondatorul laboratorului și
 omul de știință nebun...
 
 172
@@ -732,7 +732,7 @@ Linişte!
 
 176
 00:12:34,310 --> 00:12:36,810
-„Okabe Rintarou” este pur și 
+„Okabe Rintarou” este pur și
 simplu numele meu de acoperire.
 
 177
@@ -766,7 +766,7 @@ Super hacherul, Hashida Itaru!
 
 184
 00:12:53,660 --> 00:12:56,710
-Este "hacker" nu "hacher", omule.
+Se spune "hacker" nu "hacher", omule.
 
 185
 00:12:56,710 --> 00:12:58,010
@@ -826,8 +826,8 @@ Nu este ca și cum ar avea capacitatea de a
 
 197
 00:13:40,630 --> 00:13:44,630
-Deci, și fetele 2D pe care le
-place Daru-kun sunt la fel?
+Atunci și fetele 2D care îi
+plac lui Daru-kun sunt la fel?
 
 198
 00:13:44,630 --> 00:13:45,970
@@ -864,8 +864,8 @@ Asta a fost rapid!
 
 206
 00:14:02,230 --> 00:14:05,490
-Prin urmare, această
-linie de gândire este inutilă.
+Prin urmare, este inutil
+să ne gândim la asta.
 
 207
 00:14:05,490 --> 00:14:08,711
@@ -879,7 +879,7 @@ distruge structura de conducere a lumii.
 
 209
 00:14:11,740 --> 00:14:15,620
-Omule, iar începi cu halucinațiile tale.
+Omule, iar începi cu fanteziile tale.
 
 210
 00:14:15,620 --> 00:14:17,500
@@ -908,8 +908,8 @@ cu atenție ce spun alții.
 
 216
 00:14:33,430 --> 00:14:37,180
-O fi timpul să verific forumul
-„Ești ultima persoană de la care vreau să aud asta!”?
+Tu vorbești serios?
+Râde ciob de oală spartă.
 
 217
 00:14:37,180 --> 00:14:40,790
@@ -927,8 +927,8 @@ Vă rog să priviți.
 
 220
 00:14:48,360 --> 00:14:51,490
-Este un obiect care, după cum puteți vedea
-chiar și din sol, are o dimensiune destul de mare.
+Este un obiect care, după cum puteți
+vedea, are o dimensiune destul de mare.
 
 221
 00:14:49,950 --> 00:14:52,370
@@ -937,7 +937,7 @@ chiar și din sol, are o dimensiune destul de mare.
 222
 00:14:53,660 --> 00:15:00,460
 <i>Azi dimineață, Mayuri și cu mine am
-mers la clădirea Rajikan pentru a asculta 
+mers la clădirea Rajikan pentru a asculta
 prelegerea profesorului Nakabachi...
 
 223
@@ -978,7 +978,7 @@ profesorul s-a speriat și a fugit.
 231
 00:15:27,030 --> 00:15:29,280
 Profesorul Nakabachi
-a apărut în sala de curs!
+a venit la prelegere!
 
 232
 00:15:29,280 --> 00:15:31,110
@@ -1164,7 +1164,7 @@ Poftim.
 
 276
 00:17:32,320 --> 00:17:35,780
-Chiar îți place mult Dr Pepper...
+Chiar îți place mult Dr. Pepper...
 
 277
 00:17:38,870 --> 00:17:41,510
@@ -1181,7 +1181,7 @@ Daru!
 
 280
 00:18:02,200 --> 00:18:05,494
-Folosirea domnului Braun pentru a
+Folosirea lui domnul Braun pentru a
 sabota televizorul este ultima picătură.
 
 281
@@ -1427,11 +1427,11 @@ credite, nici nu m-aș duce.
 
 337
 00:20:47,220 --> 00:20:49,760
-Whoo, frumos și răcoros!
+Uff, frumos și răcoros!
 
 338
 00:20:49,760 --> 00:20:51,870
-E ca și cum revin la viață.
+Parcă aș reveni la viață.
 
 339
 00:20:51,870 --> 00:20:54,690

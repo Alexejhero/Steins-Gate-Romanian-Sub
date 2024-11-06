@@ -1,0 +1,5 @@
+EPISODE TITLE
+<font face="ElicitSSK" color="#999999">
+
+ELECTRONIC TEXT
+<font color=#dddddd>
