@@ -1,0 +1,1609 @@
+﻿1
+00:00:04,395 --> 00:00:07,645
+Universul are un început,
+
+2
+00:00:07,670 --> 00:00:08,800
+dar nu are sfârșit.
+
+3
+00:00:09,800 --> 00:00:10,680
+Infinit.
+
+4
+00:00:13,300 --> 00:00:16,310
+Stelele, de asemenea, au un început,
+
+5
+00:00:16,970 --> 00:00:19,480
+dar puterea lor le distruge.
+
+6
+00:00:20,440 --> 00:00:21,390
+Finit.
+
+7
+00:00:23,650 --> 00:00:27,360
+Cei ce posedă înțelepciune
+sunt cei mai nerozi dintre toți.
+
+8
+00:00:28,110 --> 00:00:29,860
+Istoria ne-a dovedit acest lucru.
+
+9
+00:00:31,820 --> 00:00:37,790
+Ai putea spune că acesta este ultimul avertisment
+al lui Dumnezeu pentru cei care rezistă.
+
+10
+00:00:41,000 --> 00:00:42,460
+Okarin!
+
+11
+00:00:50,510 --> 00:00:51,470
+Hai să mergem.
+
+12
+00:01:04,690 --> 00:01:09,690
+<font face="ElicitSSK" color="#999999">Prologul Începutului și al Sfârșitului</font>
+
+13
+00:01:13,840 --> 00:01:15,780
+Sunt pe cale să mă infiltrez.
+
+14
+00:01:15,780 --> 00:01:18,540
+El Psy Congroo.
+
+15
+00:01:23,750 --> 00:01:25,280
+Nu sunt mulți oameni aici...
+
+16
+00:01:25,280 --> 00:01:28,460
+Aceasta trebuie să fie ingerința Organizației.
+
+17
+00:01:28,460 --> 00:01:30,550
+Ce se întâmplă aici?
+
+18
+00:01:30,550 --> 00:01:33,380
+Ai venit până aici fără să știi?
+
+19
+00:01:35,970 --> 00:01:38,050
+Ooh, o mașină a timpului.
+
+20
+00:01:36,622 --> 00:01:39,500
+{\an8}
+
+<font color=#888888>Conferința de presă a Doctorului Nakabachi despre mașinile timpului
+
+21
+00:01:38,050 --> 00:01:39,470
+Incredibil.
+
+22
+00:01:40,270 --> 00:01:43,991
+Dr. Nakabachi a luat-o
+înaintea grupurilor de cercetare
+
+23
+00:01:44,015 --> 00:01:48,150
+și ține o conferință de presă
+despre „invenția secolului”.
+
+24
+00:01:48,150 --> 00:01:51,230
+Sunt aici să aud ce are de spus.
+
+25
+00:01:54,200 --> 00:01:54,820
+Un cutremur?
+
+26
+00:01:55,610 --> 00:01:56,560
+Ba nu, de sus?
+
+27
+00:02:11,590 --> 00:02:12,460
+Ce-i asta?
+
+28
+00:02:22,560 --> 00:02:25,020
+M-ai sunat pentru așa ceva?
+
+29
+00:02:25,770 --> 00:02:32,730
+Nu au mai rămas multe în această serie,
+dar Mayushii nu mai are monede de 100 de yeni.
+
+30
+00:02:33,230 --> 00:02:35,200
+Ești răsfățată, Mayuri.
+
+31
+00:02:35,200 --> 00:02:38,110
+Chiar dacă suntem prieteni din copilărie,
+nu îți împrumut niciun ban.
+
+32
+00:02:40,660 --> 00:02:44,830
+Permite-mi să îți arăt cât de dură este viața.
+
+33
+00:02:51,920 --> 00:02:53,630
+Ce-i asta?
+
+34
+00:02:53,630 --> 00:02:54,830
+Nu are nicio culoare.
+
+35
+00:02:55,420 --> 00:02:57,550
+E din... metal!
+
+36
+00:02:58,130 --> 00:02:59,510
+Este din metal!
+
+37
+00:02:59,510 --> 00:03:00,580
+Un Upa din metal!
+
+38
+00:03:01,100 --> 00:03:02,390
+Este rar?
+
+39
+00:03:02,390 --> 00:03:04,130
+Da, foarte!
+
+40
+00:03:08,140 --> 00:03:10,810
+Ei bine, atunci, ia-l.
+
+41
+00:03:11,630 --> 00:03:13,220
+Ești sigur, Okarin?
+
+42
+00:03:13,220 --> 00:03:15,110
+Spune-mi Hououin Kyouma.
+
+43
+00:03:15,110 --> 00:03:16,650
+Mulțumesc, Okarin!
+
+44
+00:03:16,650 --> 00:03:18,610
+Ți-am zis, spune-mi Hououin Kyouma...
+
+45
+00:03:19,950 --> 00:03:25,080
+Conferința lui Dr. Nakabachi va
+începe acum în sala de la etajul opt.
+
+46
+00:03:25,080 --> 00:03:26,540
+Vă rugăm să intrați liber...
+
+47
+00:03:30,880 --> 00:03:36,880
+ Pentru structura de bază a unei mașini a timpului, vă
+rog să aruncați o privire la materialele din fața dvs.
+
+48
+00:03:36,880 --> 00:03:40,760
+Îmi voi folosi timpul aici pentru a
+explica teoria de bază a acesteia...
+
+49
+00:03:41,930 --> 00:03:43,930
+Până acum, cercetătorii
+lumii s-au concentrat pe...
+
+50
+00:03:43,955 --> 00:03:44,730
+{\an5}<font color=#dddddd>De la: Mayuri
+
+51
+00:03:43,955 --> 00:03:47,478
+Cred că mi-am pierdut Upa-ul din metal,
+așa că o să-l caut.
+
+52
+00:03:47,770 --> 00:03:51,100
+În prezent, există peste 10
+variații numai ale teoriei generale...
+
+53
+00:03:50,230 --> 00:03:53,190
+<i>Structura de bază a
+unei mașini a timpului...
+
+54
+00:03:51,100 --> 00:03:56,820
+Au existat multe discuții dintr-o multitudine de
+unghiuri despre cum ar trebui să fie structura sa.
+
+55
+00:03:59,820 --> 00:04:02,490
+DOCTORULE!
+
+56
+00:04:02,490 --> 00:04:03,820
+Ce s-a întâmplat?
+
+57
+00:04:03,820 --> 00:04:05,410
+Ce întrebare e aia?
+
+58
+00:04:05,410 --> 00:04:07,650
+Ce este această teorie pe care o propui?!
+
+59
+00:04:07,650 --> 00:04:09,910
+Găuri negre Kerr? Linii ale lumii?
+
+60
+00:04:10,210 --> 00:04:13,160
+Toată asta este povestea lui John Titor!
+
+61
+00:04:13,790 --> 00:04:19,670
+John Titor s-a numit călător în timp
+și a postat asta pe internet în 2000!
+
+62
+00:04:19,670 --> 00:04:21,340
+Știi asta!
+
+63
+00:04:21,340 --> 00:04:23,460
+Cât de nepoliticos, bineînțeles că știu asta!
+
+64
+00:04:24,010 --> 00:04:27,180
+Nu compara teoria mea cu tâmpenia aceea!
+
+65
+00:04:27,180 --> 00:04:29,910
+Atunci explică-ne, te rugăm,
+
+66
+00:04:29,935 --> 00:04:34,030
+diferențele dintre teoria 
+ta și cea a lui Titor!
+
+67
+00:04:35,190 --> 00:04:36,340
+Vino cu mine.
+
+68
+00:04:38,860 --> 00:04:44,660
+Dacă mă gândesc bine, am citit ceva
+destul de asemănător în cartea lui John Titor...
+
+69
+00:04:46,990 --> 00:04:48,410
+Cine eşti tu?!
+
+70
+00:04:48,830 --> 00:04:50,620
+Aș vrea să te întreb același lucru.
+
+71
+00:04:50,620 --> 00:04:52,210
+Ce?
+
+72
+00:04:52,210 --> 00:04:56,490
+Ai încercat să îmi spui ceva mai devreme.
+
+73
+00:04:57,500 --> 00:04:58,630
+Mai devreme?
+
+74
+00:04:58,630 --> 00:05:00,030
+Acum vreo cincisprezece minute.
+
+75
+00:05:00,030 --> 00:05:02,090
+Ce prostii...
+
+76
+00:05:02,970 --> 00:05:05,360
+Makise... Kurisu?
+
+77
+00:05:06,600 --> 00:05:09,430
+Tu ai publicat lucrarea aceea în Science!
+
+78
+00:05:09,430 --> 00:05:11,350
+Sunt surprinsă că știi.
+
+79
+00:05:11,350 --> 00:05:13,600
+Ești cumva cercetător la o universitate...
+
+80
+00:05:13,600 --> 00:05:14,190
+Tu!
+
+81
+00:05:14,900 --> 00:05:17,320
+Ești un agent trimis de Organizație!
+
+82
+00:05:17,770 --> 00:05:18,820
+Organizație?
+
+83
+00:05:18,820 --> 00:05:19,900
+Ce este aia?
+
+84
+00:05:20,490 --> 00:05:21,950
+Vreau doar să te întreb...
+
+85
+00:05:21,950 --> 00:05:24,280
+Dar eu nu trebuie să-ți răspund!
+
+86
+00:05:24,280 --> 00:05:27,200
+Eu sunt. Am fost prins
+de un agent al Organizației.
+
+87
+00:05:27,200 --> 00:05:29,490
+Da, Makise Kurisu.
+
+88
+00:05:28,490 --> 00:05:30,200
+Cu cine vorbești?
+
+89
+00:05:29,490 --> 00:05:33,080
+Nu, nicio problemă. Mă
+voi scutura de ea cumva...
+
+90
+00:05:33,080 --> 00:05:34,860
+Oh? Este oprit.
+
+91
+00:05:40,090 --> 00:05:42,720
+O să îți spun atunci.
+
+92
+00:05:42,720 --> 00:05:46,958
+Acesta este un telefon mobil
+pentru misiuni speciale
+
+93
+00:05:46,983 --> 00:05:49,847
+care se dezactivează singur când
+îl atinge altcineva decât mine.
+
+94
+00:05:51,890 --> 00:05:53,980
+Înțeleg... Vorbeai singur.
+
+95
+00:05:55,100 --> 00:05:56,980
+Nu o să te țin mult.
+
+96
+00:05:56,980 --> 00:05:59,220
+Ce ai încercat să-mi spui?
+
+97
+00:05:59,820 --> 00:06:04,240
+Acum cincisprezece minute,
+ai încercat să-mi spui ceva.
+
+98
+00:06:04,240 --> 00:06:07,200
+Păreai foarte îngrijorat.
+
+99
+00:06:10,580 --> 00:06:13,710
+Văd prin tine ca prin sticlă.
+
+100
+00:06:13,710 --> 00:06:17,330
+Draga mea fată genială,
+la următoarea noastră întâlnire vom fi dușmani.
+
+101
+00:06:17,750 --> 00:06:18,450
+Adio.
+
+102
+00:06:19,630 --> 00:06:20,790
+Stai puțin!
+
+103
+00:06:28,850 --> 00:06:30,680
+<i>Despre ce vorbea?
+
+104
+00:06:31,350 --> 00:06:33,220
+<i>Ne-am mai întâlnit?
+
+105
+00:06:47,950 --> 00:06:49,280
+Okarin!
+
+106
+00:06:49,280 --> 00:06:50,530
+Mayuri!
+
+107
+00:06:50,530 --> 00:06:51,990
+Ce-ai făcut până acum?
+
+108
+00:06:51,990 --> 00:06:53,280
+Ți-am trimis mesaj!
+
+109
+00:06:53,580 --> 00:06:55,960
+Nu-mi găsesc Upa-ul din metal.
+
+110
+00:06:55,960 --> 00:06:58,460
+Mi-am scris și numele pe el...
+
+111
+00:06:58,460 --> 00:06:59,710
+L-ai scăpat pe undeva?
+
+112
+00:06:59,710 --> 00:07:00,670
+Așa cred...
+
+113
+00:07:00,670 --> 00:07:01,410
+Renunță.
+
+114
+00:07:03,000 --> 00:07:07,300
+Upa-urile din metal valorează peste
+10.000 de yeni în licitațiile online!
+
+115
+00:07:07,300 --> 00:07:09,430
+10.000 de yeni?!
+
+116
+00:07:12,510 --> 00:07:13,930
+Găsește-l!
+
+117
+00:07:13,930 --> 00:07:17,600
+Laboratorul nostru este pe cale
+să ajungă la fundul sacului!
+
+118
+00:07:18,520 --> 00:07:20,580
+Nu îl vând chiar dacă îl găsim.
+
+119
+00:07:20,580 --> 00:07:25,820
+Cu 10.000 de yeni, putem obține piese
+pentru tot felul de Invenții ale Viitorului!
+
+120
+00:07:26,110 --> 00:07:28,530
+Am spus că nu îl vom vinde.
+
+121
+00:07:34,660 --> 00:07:35,625
+Ce a fost asta?
+
+122
+00:07:36,830 --> 00:07:37,985
+Ieși din clădire!
+
+123
+00:07:52,640 --> 00:07:53,600
+Hei.
+
+124
+00:07:57,680 --> 00:07:59,770
+E cineva acolo?
+
+125
+00:08:11,610 --> 00:08:13,910
+Makise... Kurisu...
+
+126
+00:08:26,000 --> 00:08:26,590
+Ce?
+
+127
+00:08:26,590 --> 00:08:27,920
+S-a întâmplat ceva?
+
+128
+00:08:40,730 --> 00:08:42,400
+Okarin!
+
+129
+00:08:45,980 --> 00:08:47,360
+Ce s-a întâmplat?
+
+130
+00:08:47,360 --> 00:08:48,780
+Ești foarte palid.
+
+131
+00:08:49,690 --> 00:08:51,950
+Cineva a fost ucis.
+
+132
+00:08:53,200 --> 00:08:54,000
+La etajul opt.
+
+133
+00:09:08,090 --> 00:09:11,510
+<font color="#dddddd">Către: Daru
+Titlu: E grav
+Makise Kurisu a fost înjunghiată...</font>
+
+134
+00:09:29,690 --> 00:09:31,240
+Ce?
+
+135
+00:09:50,500 --> 00:09:51,670
+Ce se întâmplă?
+
+136
+00:09:52,391 --> 00:09:53,859
+Tutturu!
+
+137
+00:09:54,620 --> 00:09:55,890
+Poftim, Okarin!
+
+138
+00:10:00,430 --> 00:10:02,060
+Ce se petrece aici...
+
+139
+00:10:02,060 --> 00:10:03,600
+Ce vrei să spui?
+
+140
+00:10:03,600 --> 00:10:04,640
+Oamenii...
+
+141
+00:10:04,640 --> 00:10:06,190
+De ce au dispărut toți oamenii?!
+
+142
+00:10:06,190 --> 00:10:07,020
+Au dispărut?
+
+143
+00:10:07,020 --> 00:10:10,270
+Au dispărut! Toți oamenii
+de aici, chiar în fața noastră!
+
+144
+00:10:10,270 --> 00:10:11,190
+Nu ştiu...
+
+145
+00:10:11,190 --> 00:10:12,100
+Nu știi?!
+
+146
+00:10:12,490 --> 00:10:14,110
+Ai văzut și tu!
+
+147
+00:10:14,110 --> 00:10:15,200
+Nu? Nu?!
+
+148
+00:10:15,200 --> 00:10:16,570
+Eu nu am...
+
+149
+00:10:16,990 --> 00:10:18,200
+Ce tot spui...
+
+150
+00:10:47,760 --> 00:10:52,965
+<i>Zeci de miliare de inimi care bat,
+
+151
+00:10:52,990 --> 00:10:59,915
+<i>Pentru tine sunt doar o clipire, un scurt răgaz.
+
+152
+00:10:59,940 --> 00:11:04,975
+<i>Chiar dacă te lași prins de trecut și te plângi de viitor,
+
+153
+00:11:05,000 --> 00:11:10,845
+<i>Nici măcar un fir de praf nu va fi iertat de inevitabilul calcul al erorii.
+
+154
+00:11:10,870 --> 00:11:17,085
+<i>Visul care se extinde la „infinit” și viitorul pe care îl conturăm,
+
+155
+00:11:17,110 --> 00:11:22,945
+<i>sunt drepturile iluzorii care ni s-au îngăduit.
+
+156
+00:11:22,970 --> 00:11:28,955
+<i>„Finit” – acesta este semnul celor două ace,
+
+157
+00:11:28,980 --> 00:11:33,360
+<i>Pentru un pact crud și o alegere…
+
+158
+00:11:33,750 --> 00:11:35,610
+<i>Hacking to the Gate
+
+159
+00:11:35,610 --> 00:11:42,875
+<i>De aceea, acum, din secundă în secundă, trec prin linii ale lumii,
+
+160
+00:11:42,900 --> 00:11:47,920
+<i>Pentru că vreau să protejez acel zâmbet al tău.
+
+161
+00:11:47,920 --> 00:11:54,815
+<i>Și din nou, într-o buclă a timpului fără tristețe voi fi absorbit,
+
+162
+00:11:54,840 --> 00:12:01,060
+<i>Devenind un observator al singurătății.
+
+163
+00:12:04,450 --> 00:12:05,870
+Hei, tu, mizerabilule!
+
+164
+00:12:06,740 --> 00:12:08,540
+Poți să ne vezi?
+
+165
+00:12:09,040 --> 00:12:10,870
+De ce nu răspunzi?
+
+166
+00:12:10,870 --> 00:12:14,290
+Da tu, ticălosul urât din monitor!
+
+167
+00:12:15,670 --> 00:12:16,920
+Ei bine, nu contează.
+
+168
+00:12:16,920 --> 00:12:19,300
+Acesta este Laboratorul de Invenții ale Viitorului.
+
+169
+00:12:19,300 --> 00:12:21,800
+Permiteți-mi să vă prezint membrii laboratorului.
+
+170
+00:12:21,800 --> 00:12:24,760
+În primul rând, membru al laboratorului 001:
+
+171
+00:12:24,760 --> 00:12:28,140
+Fondatorul laboratorului și 
+omul de știință nebun...
+
+172
+00:12:28,140 --> 00:12:29,510
+Chiar eu...
+
+173
+00:12:29,510 --> 00:12:30,810
+Hououin Kyouma.
+
+174
+00:12:30,810 --> 00:12:33,440
+„Okarin” sună mai drăguț totuși...
+
+175
+00:12:33,440 --> 00:12:34,310
+Linişte!
+
+176
+00:12:34,310 --> 00:12:36,810
+„Okabe Rintarou” este pur și 
+simplu numele meu de acoperire.
+
+177
+00:12:37,560 --> 00:12:39,820
+În continuare, membru al laboratorului 002:
+
+178
+00:12:39,820 --> 00:12:42,110
+Creatoarea de costume
+și singura fată din grup,
+
+179
+00:12:42,110 --> 00:12:43,570
+Shiina Mayuri!
+
+180
+00:12:43,804 --> 00:12:44,946
+Tutturu!
+
+181
+00:12:44,970 --> 00:12:46,820
+Eu sunt Mayushii!
+
+182
+00:12:48,070 --> 00:12:51,120
+Și, în sfârșit, membru al laboratorului 003:
+
+183
+00:12:51,120 --> 00:12:53,660
+Super hacherul, Hashida Itaru!
+
+184
+00:12:53,660 --> 00:12:56,710
+Este "hacker" nu "hacher", omule.
+
+185
+00:12:56,710 --> 00:12:58,010
+Suntem doar trei.
+
+186
+00:12:58,330 --> 00:13:01,920
+Hai, n-ar trebui să renunțăm deja?
+
+187
+00:13:01,920 --> 00:13:05,480
+Nu ne putem aștepta la nimic de la
+o porcărie de joc de 500 de yeni...
+
+188
+00:13:05,930 --> 00:13:06,950
+Ascultă aici!
+
+189
+00:13:07,340 --> 00:13:13,270
+Pentru a găsi laboratorul nostru, mergi pe Chuoudoori, apoi fă stânga
+la intersecția dinaintea stației Suehirochou spre Kuramaedoori.
+
+190
+00:13:13,270 --> 00:13:17,170
+Acolo vei găsi o clădire multifuncțională
+chiar înainte de prima alee.
+
+191
+00:13:17,520 --> 00:13:22,780
+Scopul cercetării noastre aici este de a
+transforma structura de conducere a lumii.
+
+192
+00:13:22,780 --> 00:13:25,780
+Cu alte cuvinte, aducerea
+invențiilor în lume.
+
+193
+00:13:25,780 --> 00:13:26,680
+Înțelegi?
+
+194
+00:13:26,680 --> 00:13:30,280
+Dacă înțelegi, grăbește-te
+și spune-mi secretele tale!
+
+195
+00:13:30,280 --> 00:13:36,160
+Hei, mă întreb dacă noi suntem doar
+un joc prin ochii lui Alpacaman-san.
+
+196
+00:13:36,160 --> 00:13:40,630
+Nu este ca și cum ar avea capacitatea de a
+înțelege conceptele de joc și de realitate.
+
+197
+00:13:40,630 --> 00:13:44,630
+Deci, și fetele 2D pe care le
+place Daru-kun sunt la fel?
+
+198
+00:13:44,630 --> 00:13:45,970
+Nu, e diferit.
+
+199
+00:13:45,970 --> 00:13:48,090
+Ele sunt soțiile mele.
+
+200
+00:13:48,090 --> 00:13:50,760
+Nimănui nu-i pasă de soțiile tale.
+
+201
+00:13:50,760 --> 00:13:53,720
+Totuși, este o idee interesantă.
+
+202
+00:13:53,720 --> 00:13:57,980
+Ce-ar fi dacă noi am fi de fapt
+cei care se află în monitor?
+
+203
+00:13:57,980 --> 00:14:00,310
+Crezi că am putea știi?
+
+204
+00:14:00,310 --> 00:14:00,810
+Nu.
+
+205
+00:14:00,810 --> 00:14:01,910
+Asta a fost rapid!
+
+206
+00:14:02,230 --> 00:14:05,490
+Prin urmare, această
+linie de gândire este inutilă.
+
+207
+00:14:05,490 --> 00:14:08,711
+Ai fi mult mai productiv dacă
+te-ai gândi la o modalitate
+
+208
+00:14:08,736 --> 00:14:11,740
+de contracara Organizația și de a
+distruge structura de conducere a lumii.
+
+209
+00:14:11,740 --> 00:14:15,620
+Omule, iar începi cu halucinațiile tale.
+
+210
+00:14:15,620 --> 00:14:17,500
+Taci din gură, super hachere!
+
+211
+00:14:17,500 --> 00:14:21,000
+Eu sunt omul de știință nebun, Hououin...
+
+212
+00:14:21,670 --> 00:14:22,540
+Kyouma!
+
+213
+00:14:26,210 --> 00:14:27,670
+Deci ăsta e scenariul pe care l-ai ales?
+
+214
+00:14:27,670 --> 00:14:29,180
+Ce să mai zic, Daru.
+
+215
+00:14:29,180 --> 00:14:33,430
+Ai face bine să asculți
+cu atenție ce spun alții.
+
+216
+00:14:33,430 --> 00:14:37,180
+O fi timpul să verific forumul
+„Ești ultima persoană de la care vreau să aud asta!”?
+
+217
+00:14:37,180 --> 00:14:40,790
+Apropo, se pare că a
+sosit elicopterul de presă.
+
+218
+00:14:40,790 --> 00:14:47,170
+Astăzi, în jurul orei 12, un obiect ce pare a fi un
+satelit s-a prăbușit într-o clădire din Akihabara.
+
+219
+00:14:47,190 --> 00:14:48,360
+Vă rog să priviți.
+
+220
+00:14:48,360 --> 00:14:51,490
+Este un obiect care, după cum puteți vedea
+chiar și din sol, are o dimensiune destul de mare.
+
+221
+00:14:49,950 --> 00:14:52,370
+<i>Ce naiba a fost aia?
+
+222
+00:14:53,660 --> 00:15:00,460
+<i>Azi dimineață, Mayuri și cu mine am
+mers la clădirea Rajikan pentru a asculta 
+prelegerea profesorului Nakabachi...
+
+223
+00:15:01,040 --> 00:15:04,930
+<i>Dar înainte să-mi dau seama,
+un satelit s-a prăbușit.
+
+224
+00:15:05,960 --> 00:15:07,060
+<i>Și nu numai atât...
+
+225
+00:15:09,510 --> 00:15:10,530
+Eu?
+
+226
+00:15:10,530 --> 00:15:11,720
+Da.
+
+227
+00:15:11,720 --> 00:15:18,430
+Când ai văzut satelitul prăbușit la televizor, ai
+spus: „Organizația și-a făcut în sfârșit mișcarea!”
+
+228
+00:15:18,660 --> 00:15:20,420
+Am fost să vedem împreună.
+
+229
+00:15:20,420 --> 00:15:21,390
+Anulat?!
+
+230
+00:15:21,630 --> 00:15:27,030
+Erai supărat azi dimineață că
+profesorul s-a speriat și a fugit.
+
+231
+00:15:27,030 --> 00:15:29,280
+Profesorul Nakabachi
+a apărut în sala de curs!
+
+232
+00:15:29,280 --> 00:15:31,110
+A început la 12 în clădirea Rajikan!
+
+233
+00:15:31,110 --> 00:15:34,120
+Omule, îți spun, nu a venit.
+
+234
+00:15:34,120 --> 00:15:35,280
+E și bine.
+
+235
+00:15:35,280 --> 00:15:38,930
+Altfel satelitul ăla te-ar fi făcut clătită.
+
+236
+00:15:39,540 --> 00:15:41,210
+Această inconsecvență
+în amintirile mele...
+
+237
+00:15:41,790 --> 00:15:44,750
+Mi-a manipulat Organizația memoria?
+
+238
+00:15:46,170 --> 00:15:47,380
+Înțeleg!
+
+239
+00:15:47,380 --> 00:15:50,320
+Aceasta este alegerea Steins Gate!
+
+240
+00:15:52,930 --> 00:15:54,280
+Scenariu nou?
+
+241
+00:15:54,890 --> 00:15:58,350
+Chiar nu înțeleg chestia aia Stein a ta.
+
+242
+00:16:00,020 --> 00:16:02,310
+Daru! Dă-mi Invenția Viitorului #1!
+
+243
+00:16:02,310 --> 00:16:04,900
+L-ai supărat pe Alpacaman-san.
+
+244
+00:16:04,900 --> 00:16:07,070
+...Pentru că ai schimbat canalul.
+
+245
+00:16:05,388 --> 00:16:06,572
+- Poftim.
+- Mersi.
+
+246
+00:16:11,610 --> 00:16:12,790
+La naiba, domnule Braun!
+
+247
+00:16:12,790 --> 00:16:14,660
+Dându-ne un gunoi ca acesta.
+
+248
+00:16:14,660 --> 00:16:16,780
+L-am primit pe gratis, nu?
+
+249
+00:16:17,780 --> 00:16:19,120
+Daru! Cară acest televizor!
+
+250
+00:16:19,120 --> 00:16:20,580
+Dar refuz.
+
+251
+00:16:21,200 --> 00:16:23,230
+E atât de cald azi...
+
+252
+00:16:23,230 --> 00:16:26,560
+În plus, să nu crezi că sunt
+puternic doar pentru că sunt gras!
+
+253
+00:16:28,000 --> 00:16:29,300
+Nu te mândri cu asta!
+
+254
+00:16:32,010 --> 00:16:34,550
+Domnule... Braun!
+
+255
+00:16:35,130 --> 00:16:37,390
+Ți-am spus să-mi spui Tennouji-san.
+
+256
+00:16:39,180 --> 00:16:42,850
+Aș dori să te rog să repari
+imediat aceast televizor.
+
+257
+00:16:43,170 --> 00:16:44,850
+L-ai stricat deja?
+
+258
+00:16:45,480 --> 00:16:48,440
+Nu iubești suficient televizoarele CRT.
+
+259
+00:16:48,440 --> 00:16:49,920
+ Te va costa 1.000 de yeni.
+
+260
+00:16:50,980 --> 00:16:52,650
+Ai provocat deja destule pagube!
+
+261
+00:16:52,650 --> 00:16:54,610
+E vina ta că mi-ai dat ceva defe-
+
+262
+00:16:53,820 --> 00:16:55,910
+Așa vorbești tu cu proprietarul tău?
+
+263
+00:16:56,140 --> 00:16:58,120
+Bine, voi plăti.
+
+264
+00:16:58,120 --> 00:17:01,590
+Mayuri-chan, chiar ar trebui să
+te mai gândești să stai cu tipul ăsta.
+
+265
+00:17:01,590 --> 00:17:05,160
+Dar Mayushii este ostatica lui Okarin.
+
+266
+00:17:05,160 --> 00:17:06,870
+Ostatic, spui?
+
+267
+00:17:07,920 --> 00:17:10,210
+Oh, și piesa asta e stricată.
+
+268
+00:17:10,210 --> 00:17:11,500
+Astea înseamnă 2.000 de yeni.
+
+269
+00:17:11,500 --> 00:17:12,090
+Ce-
+
+270
+00:17:12,090 --> 00:17:13,570
+Fie îți convine fie nu.
+
+271
+00:17:14,670 --> 00:17:16,180
+Deci?
+
+272
+00:17:20,390 --> 00:17:21,730
+Eu sunt.
+
+273
+00:17:22,110 --> 00:17:25,390
+Se pare că Organizația a ajuns
+chiar și la acel cap de caracatiță.
+
+274
+00:17:25,890 --> 00:17:27,560
+Au început să-mi saboteze echipamentul.
+
+275
+00:17:27,560 --> 00:17:28,480
+Poftim.
+
+276
+00:17:32,320 --> 00:17:35,780
+Chiar îți place mult Dr Pepper...
+
+277
+00:17:38,870 --> 00:17:41,510
+Este băutura intelectuală
+făcută pentru cei aleși.
+
+278
+00:17:53,340 --> 00:17:56,420
+Sunetul cicadelor este uimitor.
+
+279
+00:18:01,140 --> 00:18:01,930
+Daru!
+
+280
+00:18:02,200 --> 00:18:05,494
+Folosirea domnului Braun pentru a
+sabota televizorul este ultima picătură.
+
+281
+00:18:05,519 --> 00:18:07,390
+Organizația a depășit limita.
+
+282
+00:18:07,390 --> 00:18:09,270
+Executăm acel plan!
+
+283
+00:18:09,270 --> 00:18:10,850
+Plan? Ce plan?
+
+284
+00:18:10,850 --> 00:18:12,360
+Știi tu, planul!
+
+285
+00:18:12,360 --> 00:18:16,280
+Despre ce altceva aș putea vorbi în afară
+de activarea Invenției Viitorului #8?
+
+286
+00:18:16,280 --> 00:18:19,280
+Oh, Telefonul cu Microunde (nume temporar)?
+
+287
+00:18:19,280 --> 00:18:23,200
+Totuși, cum „activezi”
+un cuptor cu microunde?
+
+288
+00:18:23,200 --> 00:18:26,850
+Ne cunoaștem deja de 3,5 ani.
+
+289
+00:18:26,850 --> 00:18:32,090
+Nu am vorbit niciodată de când am fost în clase
+diferite în anul doi, așa că au trecut degrabă 2 ani.
+
+290
+00:18:32,090 --> 00:18:33,730
+Nu contează detaliile.
+
+291
+00:18:33,730 --> 00:18:37,300
+Oricum, a trecut mult timp.
+
+292
+00:18:37,300 --> 00:18:40,470
+Ce-ar fi să înveți deja să-mi
+urmezi firul gândurilor?
+
+293
+00:18:40,470 --> 00:18:42,420
+Asta e im-po-si-bil.
+
+294
+00:18:44,100 --> 00:18:45,970
+Dar nu ezita să încerci din nou.
+
+295
+00:18:45,970 --> 00:18:46,770
+Este gata.
+
+296
+00:18:46,770 --> 00:18:47,980
+Mayuri, adu-mi bananele!
+
+297
+00:18:48,870 --> 00:18:50,730
+Iarăși faci gel-nane?
+
+298
+00:18:50,730 --> 00:18:52,230
+Faci atâta risipă...
+
+299
+00:18:52,230 --> 00:18:55,190
+Nu vom învinge niciodată
+Organizația dacă ești atât de zgârcită!
+
+300
+00:18:55,190 --> 00:18:57,240
+Cui îi pasă de asta?
+
+301
+00:18:57,240 --> 00:19:00,910
+Mayushii este cea care
+cumpără astea, știi...
+
+302
+00:19:00,910 --> 00:19:01,740
+Știu.
+
+303
+00:19:03,390 --> 00:19:07,870
+Acesta este Telefonul cu microunde (nume temporar).
+
+304
+00:19:07,870 --> 00:19:10,370
+Puteți seta cronometrul acum.
+
+305
+00:19:10,370 --> 00:19:15,040
+Apăsați #, urmat de numărul de secunde.
+
+306
+00:19:15,040 --> 00:19:17,670
+120#...
+
+307
+00:19:19,670 --> 00:19:22,300
+Este o farfurie frumoasă, nu?
+
+308
+00:19:22,300 --> 00:19:25,240
+Se întoarce în direcția opusă.
+
+309
+00:19:25,240 --> 00:19:26,720
+Opusă?
+
+310
+00:19:27,140 --> 00:19:30,810
+Ar putea avea o semnificație importantă!
+
+311
+00:19:30,810 --> 00:19:34,230
+Dacă te gândești la asta la nivel cuantic,
+regula lui Hund a multiplicității maxime ar putea...
+
+312
+00:19:34,230 --> 00:19:36,110
+Nicio șansă.
+
+313
+00:19:36,110 --> 00:19:36,940
+Nu?
+
+314
+00:19:36,940 --> 00:19:37,570
+Nu.
+
+315
+00:19:41,200 --> 00:19:42,700
+Același rezultat...
+
+316
+00:19:42,700 --> 00:19:45,800
+Nici nu se încălzește nici nu se răcește.
+
+317
+00:19:46,150 --> 00:19:49,588
+Ultima oară Puiul Prăjit Suculent
+Numărul 1 s-a făcut ca un ceai-
+
+318
+00:19:48,870 --> 00:19:52,330
+Indiferent, orice se întâmplă în mod
+clar are de-a face cu Steins Gate.
+
+319
+00:19:52,330 --> 00:19:53,900
+Iar porcăria asta?
+
+320
+00:19:53,900 --> 00:19:56,500
+Daru, nu ai avea chef tu
+să mănânci aceste ba-
+
+321
+00:19:55,840 --> 00:19:56,500
+Deloc.
+
+322
+00:19:57,300 --> 00:19:59,710
+Atunci îi voi acorda onoarea lui Mayuri.
+
+323
+00:19:59,710 --> 00:20:04,390
+Știi, gel-nanele sunt
+cam alunecoase și moi.
+
+324
+00:20:04,390 --> 00:20:05,730
+Și nu au gust de nimic.
+
+325
+00:20:05,730 --> 00:20:06,720
+Ai mâncat una?
+
+326
+00:20:06,720 --> 00:20:07,760
+Mayu-shi...
+
+327
+00:20:08,330 --> 00:20:12,080
+Încearcă să spui
+„Banana ta este moale”.
+
+328
+00:20:12,310 --> 00:20:15,055
+Bine... Banana ta este-
+
+329
+00:20:15,005 --> 00:20:16,800
+Nu o face să spună asta, perversule!
+
+330
+00:20:21,940 --> 00:20:22,900
+Vai...
+
+331
+00:20:22,900 --> 00:20:24,950
+Mă topesc...
+
+332
+00:20:24,950 --> 00:20:27,420
+Am ieșit din laborator de
+mai puțin de zece minute.
+
+333
+00:20:28,160 --> 00:20:32,830
+Cel mai departe pot merge în timpul
+verii acolo unde lucrează Faris-tan.
+
+334
+00:20:32,830 --> 00:20:36,100
+Mi-aș dori să poată face aceste
+lucruri la MayQueen+Nyan².
+
+335
+00:20:36,670 --> 00:20:39,550
+Crezi că se poate ține un curs
+la o cafenea cu servitoare?
+
+336
+00:20:40,630 --> 00:20:44,380
+Dacă nu ar fi necesar pentru
+credite, nici nu m-aș duce.
+
+337
+00:20:47,220 --> 00:20:49,760
+Whoo, frumos și răcoros!
+
+338
+00:20:49,760 --> 00:20:51,870
+E ca și cum revin la viață.
+
+339
+00:20:51,870 --> 00:20:54,690
+Un satelit a cazut...
+
+340
+00:20:54,690 --> 00:20:56,520
+Încă mai vorbești despre asta?
+
+341
+00:20:56,520 --> 00:20:59,230
+Daru, nu vrei să verificăm clădirea Rajikan?
+
+342
+00:20:59,230 --> 00:21:01,980
+Va fi atât de aglomerat
+încât nu vom vedea nimic.
+
+343
+00:21:01,980 --> 00:21:06,240
+Ei bine, deja mă uit la
+rapoartele de pe forum.
+
+344
+00:21:06,240 --> 00:21:08,280
+Oh, oprirea muncii pentru o vreme?
+
+345
+00:21:08,280 --> 00:21:09,740
+Un alt scandal?
+
+346
+00:21:11,490 --> 00:21:13,960
+A, da! Atunci...
+
+347
+00:21:13,960 --> 00:21:14,870
+Dă-mi telefonul tău.
+
+348
+00:21:14,870 --> 00:21:15,620
+Ce?
+
+349
+00:21:15,620 --> 00:21:17,630
+Doar dă-mi-l!
+
+350
+00:21:17,630 --> 00:21:19,520
+Aceasta este o încălcare
+a vieții mele private! Nu te voi-
+
+351
+00:21:19,460 --> 00:21:20,590
+Ți-am trimis un mesaj, nu?
+
+352
+00:21:20,590 --> 00:21:21,420
+Ce?
+
+353
+00:21:21,420 --> 00:21:23,840
+Un mail despre înjunghierea lui Makise Kurisu.
+
+354
+00:21:23,840 --> 00:21:25,700
+Oh, ăla de săptămâna trecută?
+
+355
+00:21:26,300 --> 00:21:27,390
+Săptămâna trecută?
+
+356
+00:21:27,390 --> 00:21:30,510
+L-ai împărțit și în trei părți.
+A fost tare enervant!
+
+357
+00:21:31,140 --> 00:21:31,970
+Uite.
+
+358
+00:21:32,930 --> 00:21:38,160
+Data trimiterii, 23 iulie, ora 12:56.
+
+359
+00:21:32,730 --> 00:21:36,308
+{\an5}<font color=#dddddd>De la: Okabe Rintarou
+Fără subiect
+Data: 23 iulie 2010, ora 12:56
+
+360
+00:21:36,344 --> 00:21:36,950
+{\an5}<font color=#dddddd>Makise Kuris
+
+361
+00:21:36,974 --> 00:21:37,575
+{\an5}<font color=#dddddd>u a fost înj
+
+362
+00:21:37,599 --> 00:21:38,049
+{\an5}<font color=#dddddd>unghiată...
+
+363
+00:21:38,520 --> 00:21:39,230
+Vezi?
+
+364
+00:21:40,190 --> 00:21:41,480
+Săptămâna trecută...
+
+365
+00:21:42,320 --> 00:21:43,720
+Stai să verific...
+
+366
+00:21:44,610 --> 00:21:45,700
+A dispărut...
+
+367
+00:21:45,700 --> 00:21:47,010
+Ce zi e azi?
+
+368
+00:21:47,390 --> 00:21:49,490
+28.
+
+369
+00:21:51,280 --> 00:21:52,080
+Ce s-a întâmplat?
+
+370
+00:21:52,080 --> 00:21:54,580
+Mailul meu a fost trimis în trecut...
+
+371
+00:21:54,580 --> 00:21:55,290
+Ce?
+
+372
+00:22:21,260 --> 00:22:29,180
+<i>Cu o viziune reglementată, nemiloasă,
+
+373
+00:22:30,230 --> 00:22:38,000
+<i>Nu putem scăpa de cei 12 directori.
+
+374
+00:22:38,000 --> 00:22:46,210
+<i>Am dori un mâine lipsit de neliniște,
+
+375
+00:22:46,950 --> 00:22:55,370
+<i>Către orizontul fenomenului prețios aflat în mâinile noastre.
+
+376
+00:22:55,395 --> 00:23:04,110
+<i>Legăminte închise, conturul unei dovezi false s-a materializat,
+
+377
+00:23:04,110 --> 00:23:13,275
+<i>Universul vieții a gravat un timp orb.
+
+378
+00:23:13,300 --> 00:23:21,885
+<i>Bate-ți aripile, fluture, fluturele miraculos – ți-l dăruiesc,
+
+379
+00:23:21,910 --> 00:23:29,675
+<i>Un fluture al lacrimilor, un fluture strălucitor,
+
+380
+00:23:29,700 --> 00:23:34,174
+<i>Totul poate fi rescris acum.
+
