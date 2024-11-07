@@ -79,7 +79,6 @@ Ooh, o mașină a timpului.
 20
 00:01:36,622 --> 00:01:39,500
 {\an8}
-
 <font color=#888888>Conferința de presă a doctorului Nakabachi despre mașinile timpului
 
 21
@@ -1514,14 +1513,14 @@ A fost tare enervant!
 Uite.
 
 358
-00:21:32,930 --> 00:21:38,160
-Data trimiterii, 23 iulie, ora 12:56.
-
-359
 00:21:32,730 --> 00:21:36,308
 {\an5}<font color=#dddddd>De la: Okabe Rintarou
 Fără subiect
 Data: 23 iulie 2010, ora 12:56
+
+359
+00:21:32,930 --> 00:21:38,160
+Data trimiterii, 23 iulie, ora 12:56.
 
 360
 00:21:36,344 --> 00:21:36,950
@@ -1606,4 +1605,9 @@ Ce?
 380
 00:23:29,700 --> 00:23:34,174
 <i>Totul poate fi rescris acum.
+
+381
+00:23:40,075 --> 00:23:41,075
+Traducerea și adaptarea: Alexejhero
+alexejhero@gmail.com
 

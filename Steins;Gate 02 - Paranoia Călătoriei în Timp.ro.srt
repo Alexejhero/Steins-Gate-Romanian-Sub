@@ -510,7 +510,7 @@ Azi e mâna dreaptă, bine?
 
 122
 00:07:19,430 --> 00:07:22,336
-<i>Arată grozav într-un costum de preoteasă...</i>
+<i>Arată grozav în costum de preoteasă...</i>
 
 123
 00:07:22,361 --> 00:07:23,930
@@ -539,8 +539,8 @@ Pa!
 
 129
 00:07:39,350 --> 00:07:43,088
-Luka-kun este atât de grozav,
-capabil să facă acele exorcizări!
+Luka-kun poate să facă exorcizări,
+nu-i așa că este grozav?
 
 130
 00:07:43,113 --> 00:07:44,810
@@ -548,12 +548,11 @@ Păi da, este fiul unei familii de altar.
 
 131
 00:07:48,770 --> 00:07:50,510
-Îmi pare rău.
+Scuze.
 
 132
 00:07:52,325 --> 00:07:54,214
 {\an5}<font color=#ff4444>Zonă restricționată
-
 Poliția din Akihabara
 
 133
@@ -796,7 +795,7 @@ Poți să crezi asta dacă vrei.
 
 190
 00:10:27,820 --> 00:10:31,660
- Într-o bună zi, întreaga lume va
+Într-o bună zi, întreaga lume va
 îngenunchea la picioarele mele.
 
 191
@@ -812,12 +811,12 @@ S-a prăbușit în jurul orei 12:00...
 Deci Mayuri și Daru aveau dreptate.
 
 194
-00:11:08,850 --> 00:11:11,100
-Conferința a fost anulată?
+00:11:03,507 --> 00:11:06,369
+{\an5}<font color="#dddddd">Conferință de presă Doctor Nakabachi
 
 195
-00:11:03,507 --> 00:11:06,369
-{\an5}<font color=#dddddd>Conferință de presă Doctor Nakabachi
+00:11:08,850 --> 00:11:11,100
+Conferința a fost anulată?
 
 196
 00:11:11,100 --> 00:11:13,560
@@ -1409,7 +1408,7 @@ Până și celebrul KnightHeart a
 
 332
 00:18:26,280 --> 00:18:30,210
-Ceea ce înseamnă ca totul este o minciună.
+Ceea ce înseamnă că totul este o minciună.
 Acesta este răspunsul meu final.
 
 333
@@ -1730,4 +1729,9 @@ Makise Kurisu?
 407
 00:23:28,712 --> 00:23:33,186
 <i>Totul poate fi rescris acum.
+
+408
+00:23:39,087 --> 00:23:40,087
+Traducerea și adaptarea: Alexejhero
+alexejhero@gmail.com
 
