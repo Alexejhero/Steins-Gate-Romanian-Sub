@@ -192,7 +192,7 @@ Vă rugăm să intrați liber...
 
 47
 00:03:30,880 --> 00:03:36,880
- Pentru structura de bază a unei mașini a timpului, vă
+Pentru structura de bază a unei mașini a timpului, vă
 rog să aruncați o privire la materialele din fața dvs.
 
 48
@@ -452,7 +452,7 @@ Ce-ai făcut până acum?
 
 108
 00:06:51,990 --> 00:06:53,280
-Ți-am trimis mesaj!
+Ți-am trimis mail!
 
 109
 00:06:53,580 --> 00:06:55,960
@@ -816,7 +816,7 @@ Dacă înțelegi, grăbește-te
 195
 00:13:30,280 --> 00:13:36,160
 Hei, mă întreb dacă noi suntem doar
-un joc prin ochii lui Alpacaman-san.
+un joc prin ochii lui Alpacaman.
 
 196
 00:13:36,160 --> 00:13:40,630
@@ -826,7 +826,7 @@ Nu este ca și cum ar avea capacitatea de a
 197
 00:13:40,630 --> 00:13:44,630
 Atunci și fetele 2D care îi
-plac lui Daru-kun sunt la fel?
+plac lui Daru sunt la fel?
 
 198
 00:13:44,630 --> 00:13:45,970
@@ -907,8 +907,8 @@ cu atenție ce spun alții.
 
 216
 00:14:33,430 --> 00:14:37,180
-Tu vorbești serios?
-Râde ciob de oală spartă.
+Tu ești ultima persoană
+de la care vreau să aud asta.
 
 217
 00:14:37,180 --> 00:14:40,790
@@ -936,7 +936,7 @@ vedea, are o dimensiune destul de mare.
 222
 00:14:53,660 --> 00:15:00,460
 <i>Azi dimineață, Mayuri și cu mine am
-mers la clădirea Rajikan pentru a asculta
+mers la clădirea Radio pentru a asculta
 prelegerea profesorului Nakabachi...
 
 223
@@ -981,11 +981,11 @@ a venit la prelegere!
 
 232
 00:15:29,280 --> 00:15:31,110
-A început la 12 în clădirea Rajikan!
+A început la 12 în clădirea Radio!
 
 233
 00:15:31,110 --> 00:15:34,120
-Omule, îți spun, nu a venit.
+Omule, îți spun, nu a fost nicio prelegere.
 
 234
 00:15:34,120 --> 00:15:35,280
@@ -1026,11 +1026,11 @@ Daru! Dă-mi Invenția Viitorului #1!
 
 243
 00:16:02,310 --> 00:16:04,900
-L-ai supărat pe Alpacaman-san.
+L-ai supărat pe Alpacaman.
 
 244
 00:16:04,900 --> 00:16:07,070
-...Pentru că ai schimbat canalul.
+Nu trebuia să schimbi canalul.
 
 245
 00:16:05,388 --> 00:16:06,572
@@ -1076,7 +1076,7 @@ Domnule... Braun!
 
 255
 00:16:35,130 --> 00:16:37,390
-Ți-am spus să-mi spui Tennouji-san.
+Ți-am spus să-mi spui domnul Tennouji.
 
 256
 00:16:39,180 --> 00:16:42,850
@@ -1093,7 +1093,7 @@ Nu iubești suficient televizoarele CRT.
 
 259
 00:16:48,440 --> 00:16:49,920
- Te va costa 1.000 de yeni.
+Te va costa 1.000 de yeni.
 
 260
 00:16:50,980 --> 00:16:52,650
@@ -1113,8 +1113,8 @@ Bine, voi plăti.
 
 264
 00:16:58,120 --> 00:17:01,590
-Mayuri-chan, chiar ar trebui să
-te mai gândești să stai cu tipul ăsta.
+Mayuri, nu cred că e bine
+să stai pe lângă tipul ăsta.
 
 265
 00:17:01,590 --> 00:17:05,160
@@ -1341,7 +1341,7 @@ Numărul 1 s-a făcut ca un ceai-
 
 318
 00:19:48,870 --> 00:19:52,330
-Indiferent, orice se întâmplă în mod
+Indiferent, orice se întâmplă aici în mod
 clar are de-a face cu Steins Gate.
 
 319
@@ -1376,7 +1376,7 @@ Ai mâncat una?
 
 326
 00:20:06,720 --> 00:20:07,760
-Mayu-shi...
+Mayushi...
 
 327
 00:20:08,330 --> 00:20:12,080
@@ -1407,7 +1407,7 @@ mai puțin de zece minute.
 333
 00:20:28,160 --> 00:20:32,830
 Cel mai departe pot merge în timpul
-verii acolo unde lucrează Faris-tan.
+verii acolo unde lucrează Feiris.
 
 334
 00:20:32,830 --> 00:20:36,100
@@ -1442,7 +1442,7 @@ Un satelit a cazut...
 
 341
 00:20:56,520 --> 00:20:59,230
-Daru, nu vrei să verificăm clădirea Rajikan?
+Daru, nu vrei să verificăm clădirea Radio?
 
 342
 00:20:59,230 --> 00:21:01,980
@@ -1455,158 +1455,155 @@ Ei bine, deja mă uit la
 rapoartele de pe forum.
 
 344
-00:21:06,240 --> 00:21:08,280
-Oh, oprirea muncii pentru o vreme?
+00:21:06,240 --> 00:21:09,740
+Ah, munca e suspendată?
+Iarăși e vreo agitație?
 
 345
-00:21:08,280 --> 00:21:09,740
-Un alt scandal?
-
-346
 00:21:11,490 --> 00:21:13,960
 A, da! Atunci...
 
-347
+346
 00:21:13,960 --> 00:21:14,870
 Dă-mi telefonul tău.
 
-348
+347
 00:21:14,870 --> 00:21:15,620
 Ce?
 
-349
+348
 00:21:15,620 --> 00:21:17,630
 Doar dă-mi-l!
 
-350
+349
 00:21:17,630 --> 00:21:19,520
 Aceasta este o încălcare
 a vieții mele private! Nu te voi-
 
-351
+350
 00:21:19,460 --> 00:21:20,590
-Ți-am trimis un mesaj, nu?
+Ți-am trimis un mail, nu?
 
-352
+351
 00:21:20,590 --> 00:21:21,420
 Ce?
 
-353
+352
 00:21:21,420 --> 00:21:23,840
 Un mail despre înjunghierea lui Makise Kurisu.
 
-354
+353
 00:21:23,840 --> 00:21:25,700
 Oh, ăla de săptămâna trecută?
 
-355
+354
 00:21:26,300 --> 00:21:27,390
 Săptămâna trecută?
 
-356
+355
 00:21:27,390 --> 00:21:30,510
 L-ai împărțit și în trei părți.
 A fost tare enervant!
 
-357
+356
 00:21:31,140 --> 00:21:31,970
 Uite.
 
-358
+357
 00:21:32,730 --> 00:21:36,308
 {\an5}<font color=#dddddd>De la: Okabe Rintarou
 Fără subiect
 Data: 23 iulie 2010, ora 12:56
 
-359
+358
 00:21:32,930 --> 00:21:38,160
 Data trimiterii, 23 iulie, ora 12:56.
 
-360
+359
 00:21:36,344 --> 00:21:36,950
 {\an5}<font color=#dddddd>Makise Kuris
 
-361
+360
 00:21:36,974 --> 00:21:37,575
 {\an5}<font color=#dddddd>u a fost înj
 
-362
+361
 00:21:37,599 --> 00:21:38,049
 {\an5}<font color=#dddddd>unghiată...
 
-363
+362
 00:21:38,520 --> 00:21:39,230
 Vezi?
 
-364
+363
 00:21:40,190 --> 00:21:41,480
 Săptămâna trecută...
 
-365
+364
 00:21:42,320 --> 00:21:43,720
 Stai să verific...
 
-366
+365
 00:21:44,610 --> 00:21:45,700
 A dispărut...
 
-367
+366
 00:21:45,700 --> 00:21:47,010
 Ce zi e azi?
 
-368
+367
 00:21:47,390 --> 00:21:49,490
 28.
 
-369
+368
 00:21:51,280 --> 00:21:52,080
 Ce s-a întâmplat?
 
-370
+369
 00:21:52,080 --> 00:21:54,580
 Mailul meu a fost trimis în trecut...
 
-371
+370
 00:21:54,580 --> 00:21:55,290
 Ce?
 
-372
+371
 00:22:21,260 --> 00:22:29,180
 <i>Cu o viziune reglementată, nemiloasă,
 
-373
+372
 00:22:30,230 --> 00:22:38,000
 <i>Nu putem scăpa de cei 12 directori.
 
-374
+373
 00:22:38,000 --> 00:22:46,210
 <i>Am dori un mâine lipsit de neliniște,
 
-375
+374
 00:22:46,950 --> 00:22:55,370
 <i>Către orizontul fenomenului prețios aflat în mâinile noastre.
 
-376
+375
 00:22:55,395 --> 00:23:04,110
 <i>Legăminte închise, conturul unei dovezi false s-a materializat,
 
-377
+376
 00:23:04,110 --> 00:23:13,275
 <i>Universul vieții a gravat un timp orb.
 
-378
+377
 00:23:13,300 --> 00:23:21,885
 <i>Bate-ți aripile, fluture, fluturele miraculos – ți-l dăruiesc,
 
-379
-00:23:21,910 --> 00:23:29,675
+378
+00:23:21,910 --> 00:23:29,516
 <i>Un fluture al lacrimilor, un fluture strălucitor,
 
-380
-00:23:29,700 --> 00:23:34,174
+379
+00:23:29,541 --> 00:23:34,174
 <i>Totul poate fi rescris acum.
 
-381
+380
 00:23:40,075 --> 00:23:41,075
 Traducerea și adaptarea: Alexejhero
 alexejhero@gmail.com

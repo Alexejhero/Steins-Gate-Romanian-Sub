@@ -40,7 +40,7 @@ Ești idiot? Vrei să te omor?
 
 11
 00:00:40,870 --> 00:00:42,740
-Asta e replica faimoasă a lui Louise-chan!
+Asta e replica faimoasă a lui Louise!
 
 12
 00:00:42,740 --> 00:00:44,350
@@ -70,7 +70,7 @@ Dar...
 
 18
 00:00:56,890 --> 00:00:59,720
-Makise-san! Haideți vă rog!
+Domnișoară Makise! Haideți vă rog!
 
 19
 00:01:00,340 --> 00:01:01,230
@@ -86,7 +86,7 @@ Tu ești chiar...
 
 22
 00:01:06,430 --> 00:01:07,930
-Spune-mi pe nume:
+Permite-mi să mă introduc!
 
 23
 00:01:08,360 --> 00:01:09,640
@@ -254,7 +254,7 @@ Așa va fi mai ușor de înțeles pentru
 
 62
 00:04:05,850 --> 00:04:09,030
-Nu-i așa? Hououin Kyouma-san?
+Nu-i așa? Domnule Hououin Kyouma?
 
 63
 00:04:19,575 --> 00:04:22,785
@@ -275,7 +275,7 @@ Ai ceva de obiectat?
 
 67
 00:04:30,940 --> 00:04:32,600
-Hououin-san?
+Domnule Hououin?
 
 68
 00:04:34,180 --> 00:04:35,860
@@ -288,7 +288,7 @@ găsești tu „materie exotică”,
 
 70
 00:04:39,520 --> 00:04:41,470
-Hououin-san?
+Domnule Hououin?
 
 71
 00:04:43,390 --> 00:04:48,860
@@ -297,7 +297,7 @@ dacă mai aveți obiecții, vă ascult.
 
 72
 00:04:48,860 --> 00:04:50,600
-Hououin-san.
+Domnule Hououin.
 
 73
 00:04:51,549 --> 00:04:55,260
@@ -348,7 +348,7 @@ Zece!
 
 84
 00:05:25,320 --> 00:05:27,320
-Bravo, Luka-kun!
+Bravo, Luka!
 
 85
 00:05:27,639 --> 00:05:29,600
@@ -356,7 +356,7 @@ Okarin, tutturu!
 
 86
 00:05:30,150 --> 00:05:34,350
-Okabe-san... Nu, Kyouma-san.
+Okabe... Nu, Kyouma.
 
 87
 00:05:34,350 --> 00:05:37,340
@@ -414,13 +414,13 @@ Hm... Ei bine...
 
 100
 00:06:10,520 --> 00:06:14,100
-Luka-kun exersează zilnic
+Luka exersează zilnic
 loviturile de sabie!
 
 101
 00:06:14,100 --> 00:06:19,390
 Da. I-am promis lui
-Oka... adică, Kyouma-san.
+Oka... adică, Kyouma.
 
 102
 00:06:19,717 --> 00:06:24,350
@@ -539,7 +539,7 @@ Pa!
 
 129
 00:07:39,350 --> 00:07:43,088
-Luka-kun poate să facă exorcizări,
+Luka poate să facă exorcizări,
 nu-i așa că este grozav?
 
 130
@@ -561,11 +561,11 @@ E închis?
 
 134
 00:07:56,310 --> 00:07:59,850
-Da, asta duce în spatele Clădirii Rajikan.
+Da, asta duce în spatele Clădirii Radio.
 
 135
 00:08:00,430 --> 00:08:01,590
-Clădirea Rajikan...
+Clădirea Radio...
 
 136
 00:08:11,210 --> 00:08:12,630
@@ -598,7 +598,7 @@ Un țipăt? Când?
 
 143
 00:08:36,420 --> 00:08:38,220
-Astăzi, la clădirea Rajikan.
+Astăzi, la clădirea Radio.
 
 144
 00:08:39,480 --> 00:08:41,390
@@ -704,8 +704,7 @@ Ești angajată!
 
 169
 00:09:39,976 --> 00:09:42,160
-Ce-ai asta?
-Comedie? Glumă?
+Ce-ai asta? O glumă proastă?
 
 170
 00:09:42,160 --> 00:09:43,520
@@ -840,53 +839,53 @@ John Titor?
 
 201
 00:11:42,150 --> 00:11:46,680
-<i>SERN deține un monopol
+SERN deține un monopol
 exclusiv asupra mașinilor timpului.
 
 202
 00:11:46,680 --> 00:11:50,610
-<i>Nici civilii, nici corporațiile
+Nici civilii, nici corporațiile
 nu pot achiziționa una.
 
 203
 00:11:50,610 --> 00:11:53,580
-<i>SERN a folosit mașina timpului
+SERN a folosit mașina timpului
 doar în beneficiul propriu,
 
 204
 00:11:53,580 --> 00:11:56,310
-<i>pentru a crea o distopie.
+pentru a crea o distopie.
 
 205
 00:11:56,310 --> 00:11:59,890
-<i>Eu am venit aici pentru a schimba viitorul.
+Eu am venit aici pentru a schimba viitorul.
 
 206
 00:12:00,390 --> 00:12:05,900
-<i>Pentru a distruge distopia SERN,
+Pentru a distruge distopia SERN,
 și pentru a elibera lumea din nou.
 
 207
 00:12:05,900 --> 00:12:09,390
-<i><font color=#dddddd>Deci susții că SERN = Dictatori?
+Deci susții că SERN = Dictatori?
 
 208
 00:12:09,390 --> 00:12:12,020
-<i>Te referi la așa-zisul
+Te referi la așa-zisul
 paradox al bunicului, nu?
 
 209
 00:12:12,020 --> 00:12:13,680
-<i>Nu există așa ceva.
+Nu există așa ceva.
 
 210
 00:12:13,680 --> 00:12:16,200
-<i>Este posibil să te întâlnești
+Este posibil să te întâlnești
 cu tine însuți în trecut.
 
 211
 00:12:16,200 --> 00:12:18,790
-<i>Dacă o faci, pur și
+Dacă o faci, pur și
 simplu muți linia lumii.
 
 212
@@ -895,32 +894,32 @@ simplu muți linia lumii.
 
 213
 00:12:20,060 --> 00:12:21,750
-<i>Pentru început,</i>
+Pentru început,
 
 214
 00:12:21,750 --> 00:12:25,130
-<i>timpul nu este o singură linie,
-mergând din trecut în viitor.</i>
+timpul nu este o singură linie,
+mergând din trecut în viitor.
 
 215
 00:12:25,130 --> 00:12:31,000
-<i>În schimb, e format din infinite linii paralele,
-ca râurile, numite „linii ale lumii”.</i>
+În schimb, e format din infinite linii paralele,
+ca râurile, numite „linii ale lumii”.
 
 216
 00:12:31,000 --> 00:12:35,550
-<i>De exemplu, să presupunem că
-un criminal te va ucide astăzi.</i>
+De exemplu, să presupunem că
+un criminal te va ucide astăzi.
 
 217
 00:12:35,550 --> 00:12:40,750
-<i>Dacă aș veni din viitor și l-aș
-împiedica, lumea ar diverge în două:</i>
+Dacă aș veni din viitor și l-aș
+împiedica, lumea ar diverge în două:
 
 218
 00:12:40,750 --> 00:12:44,930
-<i>o lume în care ai supraviețuit,
-și o lume în care ai murit.</i>
+o lume în care ai supraviețuit,
+și o lume în care ai murit.
 
 219
 00:12:49,080 --> 00:12:51,220
@@ -1001,7 +1000,7 @@ Alo, Daru?
 236
 00:13:49,970 --> 00:13:52,570
 Ce este? Sunt
-cu Faris-tan acum...
+cu Feiris acum...
 
 237
 00:13:52,570 --> 00:13:53,680
@@ -1056,25 +1055,25 @@ Dar...
 
 249
 00:14:21,452 --> 00:14:23,451
-<i>Vreau un răspuns de la Titor.</i>
+Vreau un răspuns de la Titor.
 
 250
 00:14:23,476 --> 00:14:26,518
-<i>Acum vreo zece ani...
-Cu alte cuvinte, anul 2000.</i>
+Acum vreo zece ani...
+Cu alte cuvinte, anul 2000.
 
 251
 00:14:26,912 --> 00:14:29,567
-<i>Este interesant că puneți această întrebare.</i>
+Este interesant că puneți această întrebare.
 
 252
 00:14:29,592 --> 00:14:34,042
-<i>Dar, din păcate, eu nu am
-fost niciodată în anul 2000.</i>
+Dar, din păcate, eu nu am
+fost niciodată în anul 2000.
 
 253
 00:14:34,042 --> 00:14:36,941
-<i>Și nici nu intenționez să merg.</i>
+Și nici nu intenționez să merg.
 
 254
 00:14:49,970 --> 00:14:52,271
@@ -1197,7 +1196,7 @@ Nu știi să citești? „Hououin Kyouma”.
 
 283
 00:16:14,435 --> 00:16:16,393
-{\an5}<font color=#dddddd>Hoboing Coma
+{\an5}<font color=#dddddd>Oubouin Coma
 
 284
 00:16:19,108 --> 00:16:20,138
@@ -1229,7 +1228,7 @@ Hei, Mayuri.
 
 291
 00:16:44,656 --> 00:16:48,340
-Când lucrez, sunt Mayushii Miau Miau!
+Când lucrez, sunt Mayushii Miau-Miau!
 
 292
 00:16:48,365 --> 00:16:52,105
@@ -1298,7 +1297,7 @@ Nu te poți pune cu Organizația!
 
 307
 00:17:19,835 --> 00:17:22,905
-Faris are o mișcare secretă interzisă, miau...
+Feiris are o mișcare secretă interzisă, miau...
 
 308
 00:17:22,930 --> 00:17:23,850
@@ -1346,12 +1345,12 @@ Nu-ți fă griji.
 318
 00:17:49,010 --> 00:17:51,770
 Nu mă interesează fata
-aia și minciunile ei.
+aia și minciunile ei tâmpite.
 
 319
 00:17:51,770 --> 00:17:54,950
-Iarăși vorbești?
-Râde ciob de oală spartă.
+Tu vorbești? Râde
+ciob de oală spartă.
 
 320
 00:17:54,950 --> 00:17:58,550
@@ -1360,7 +1359,7 @@ Soțiile tale 2D plâng.
 
 321
 00:17:58,550 --> 00:18:02,650
-Faris-tan este specială!
+Feiris este specială!
 O fi ea 3D, dar are un suflet 2D!
 
 322
@@ -1434,303 +1433,299 @@ De-asta e atât de rar.
 Tipa aia...
 
 338
-00:18:47,640 --> 00:18:49,770
-„Am trimis acel mail...
-
-339
-00:18:49,770 --> 00:18:51,970
+00:18:47,640 --> 00:18:51,970
+„Scuze de întârziere.
 Sunt Kiryuu Moeka...
 
-340
+339
 00:18:50,830 --> 00:18:56,760
 {\an5}<font color=#dddddd>De la: Deget-Fulger
 Subiect: Aștept răspuns
 
-341
+340
 00:18:52,460 --> 00:18:57,060
 20 de ani... Fără loc de muncă... Pot să îți
 trimit mail, nu? Iți trimit, fie că vrei fie că nu.”
 
-342
+341
 00:18:57,060 --> 00:19:00,370
 E aceeași fată cu care tocmai am vorbit?
 
-343
+342
 00:19:00,370 --> 00:19:01,680
 Ce s-a întâmplat?
 
-344
+343
 00:19:01,680 --> 00:19:05,000
 Bucură-te că nu te-am trădat.
 
-345
+344
 00:19:05,000 --> 00:19:09,470
 „Este un calculator rar și valoros,
 dar probabil nu este în Akihabara.”
 
-346
+345
 00:19:09,470 --> 00:19:12,350
 El Psy Kongroo.
 
-347
+346
 00:19:12,930 --> 00:19:14,640
-Stăpâne!
+Stăpânilor!
 
-348
+347
 00:19:14,640 --> 00:19:16,170
 Poftim, miau-miau!
 
-349
+348
 00:19:16,170 --> 00:19:20,030
 A venit omleta „Lumea este în pericol”!
 
-350
+349
 00:19:17,400 --> 00:19:18,920
 {\an5}<font color=#bb4444>Lumea este în pericol!!
 
-351
+350
 00:19:20,030 --> 00:19:21,540
 Poftă bună, Okarin!
 
-352
+351
 00:19:21,540 --> 00:19:23,000
 Calmează-te.
 
-353
+352
 00:19:24,780 --> 00:19:27,950
 {\an5}<font color=#bb4444>Lumea este în pericol!!
 
-354
+353
 00:19:30,770 --> 00:19:37,220
 Analizele efectuate la laboratorul universitar
 arată că gel-nanele sunt rupte la nivel molecular.
 
-355
+354
 00:19:38,560 --> 00:19:42,032
 Deci nici nu le mai poți numi banane.
 
-356
+355
 00:19:42,780 --> 00:19:46,020
 Nu ți se pare ciudat?
 Oare ce se întâmplă?
 
-357
+356
 00:19:46,020 --> 00:19:52,180
-Singura posibiliate la care mă pot gândi acum
-este efectul radiațiilor electromagnetice.
+Singura posibiliate la care mă pot gândi
+acum este efectul undelor electromagnetice.
 
-358
+357
 00:19:52,180 --> 00:19:53,430
 Zici tu?
 
-359
+358
 00:19:53,430 --> 00:19:55,740
-Asta spune intuiția mea
-de om de știință nebun.
+Nu eu, ci intuiția mea.
 
-360
+359
 00:19:55,740 --> 00:19:57,420
 Deci n-ai nicio idee.
 
-361
+360
 00:19:57,420 --> 00:19:59,510
 Bine, totul este pregătit.
 
-362
+361
 00:19:59,510 --> 00:20:01,680
 Hai să folosim astea.
 
-363
+362
 00:20:01,500 --> 00:20:10,740
 {\an5}<font color=#dddddd>Proprietatea lui Mayushii
 
-364
+363
 00:20:02,430 --> 00:20:05,100
-Astea nu sunt ale lui Mayu-shi?
+Astea nu sunt ale lui Mayushi?
 
-365
-00:20:05,100 --> 00:20:06,020
+364
+00:20:05,100 --> 00:20:06,240
 Nu-ți fă griji.
 
-366
-00:20:06,020 --> 00:20:10,260
+365
+00:20:06,240 --> 00:20:09,990
 Le-am cumpărat cu fondurile de cercetare
 pe care Mayuri le-a donat laboratorului.
 
-367
-00:20:10,260 --> 00:20:11,768
+366
+00:20:10,458 --> 00:20:11,768
 Păi nu sunt ale ei-
 
-368
+367
 00:20:11,660 --> 00:20:14,600
 Hai să aruncăm totul înăuntru
 să vedem ce se întâmplă.
 
-369
+368
 00:20:14,600 --> 00:20:16,700
 Una e destulă, omule.
 
-370
+369
 00:20:20,240 --> 00:20:24,640
 Putem afla cu adevărat puterea Telefonului cu
 Microunde (nume temporar) dacă suntem zgârciți?
 
-371
+370
 00:20:24,640 --> 00:20:28,110
 Acest „(nume temporar)” este
 enervant. Ar trebui să-l scoatem.
 
-372
+371
 00:20:34,840 --> 00:20:39,920
 Trebuie să fim serioși dacă vrem cu adevărat
 să schimbăm structura de conducere a lumii!
 
-373
+372
 00:20:39,920 --> 00:20:42,330
 Ești singurul care vrea asta.
 
-374
+373
 00:20:42,330 --> 00:20:43,750
 Tu nu vrei?
 
-375
+374
 00:20:43,750 --> 00:20:45,140
 Absolut deloc.
 
-376
+375
 00:20:46,580 --> 00:20:47,470
 E gata.
 
-377
+376
 00:20:51,540 --> 00:20:52,353
 Ce e?
 
-378
+377
 00:20:52,270 --> 00:20:54,580
 Banana a dispărut!
 
-379
+378
 00:20:55,810 --> 00:20:57,270
 Imposibil!
 
-380
+379
 00:20:59,820 --> 00:21:04,850
 Eu sunt. Ordin de urgență
 #666. Inițiați răcirea!
 
-381
+380
 00:21:04,850 --> 00:21:08,110
 Aprobare guvernamentală?
 N-avem timp pentru asta!
 
-382
+381
 00:21:08,110 --> 00:21:09,400
 Renunță la actorie.
 
-383
+382
 00:21:09,400 --> 00:21:11,260
 Taci! Unde ai ascuns-o?
 
-384
+383
 00:21:11,260 --> 00:21:14,180
 Ce? Tu ești cel care a ascuns-o, Okarin.
 
-385
+384
 00:21:15,600 --> 00:21:20,410
 Înțeleg... înțeleg! Acesta trebuie să
 fie un fel de cuptor teleportator!
 
-386
+385
 00:21:20,410 --> 00:21:22,547
 P-Poftim?
 
-387
+386
 00:21:22,547 --> 00:21:24,660
 Glumesc, fii serios.
 
-388
+387
 00:21:24,660 --> 00:21:26,560
 Atunci cum explici asta?
 
-389
+388
 00:21:26,560 --> 00:21:30,167
 Am luat banana din mănunchi,
 am băgat-o în cuptor și...
 
-390
+389
 00:21:38,770 --> 00:21:41,600
 O gel-nană...
 
-391
+390
 00:21:41,600 --> 00:21:45,390
 Dar zici că nici nu a fost ruptă...
 
-392
+391
 00:21:45,390 --> 00:21:48,770
 Cu siguranță ai rupt-o, nu?
 
-393
+392
 00:21:48,770 --> 00:21:50,430
 Așa cred...
 
-394
+393
 00:21:50,430 --> 00:21:53,410
 Este cu adevărat un teleportator?
 
-395
+394
 00:21:53,410 --> 00:21:55,450
 Pe bune?
 
-396
+395
 00:21:55,450 --> 00:21:59,770
 Conduci un experiment
 interesant, Okabe Rintarou.
 
-397
+396
 00:21:59,770 --> 00:22:03,340
-Ba nu, Hououin Kyouma-san, nu-i așa?
+Ba nu, Hououin Kyouma, nu-i așa?
 
-398
+397
 00:22:05,780 --> 00:22:08,880
 Makise Kurisu?
 
-399
+398
 00:22:20,272 --> 00:22:28,192
 <i>Cu o viziune reglementată, nemiloasă,
 
-400
+399
 00:22:29,242 --> 00:22:37,012
 <i>Nu putem scăpa de cei 12 directori.
 
-401
+400
 00:22:37,012 --> 00:22:45,222
 <i>Am dori un mâine lipsit de neliniște,
 
-402
+401
 00:22:45,962 --> 00:22:54,382
 <i>Către orizontul fenomenului prețios aflat în mâinile noastre.
 
-403
+402
 00:22:54,407 --> 00:23:03,122
 <i>Legăminte închise, conturul unei dovezi false s-a materializat,
 
-404
+403
 00:23:03,122 --> 00:23:12,287
 <i>Universul vieții a gravat un timp orb.
 
-405
+404
 00:23:12,312 --> 00:23:20,897
 <i>Bate-ți aripile, fluture, fluturele miraculos – ți-l dăruiesc,
 
-406
-00:23:20,922 --> 00:23:28,687
+405
+00:23:20,922 --> 00:23:28,615
 <i>Un fluture al lacrimilor, un fluture strălucitor,
 
-407
-00:23:28,712 --> 00:23:33,186
+406
+00:23:28,640 --> 00:23:33,186
 <i>Totul poate fi rescris acum.
 
-408
+407
 00:23:39,087 --> 00:23:40,087
 Traducerea și adaptarea: Alexejhero
 alexejhero@gmail.com
