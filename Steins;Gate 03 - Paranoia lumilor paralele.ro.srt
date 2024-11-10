@@ -183,7 +183,7 @@ avem ceva mai important.
 
 44
 00:03:07,966 --> 00:03:12,939
-<font color=#999999>Paranoia Lumilor Paralele
+<font color=#999999>Paranoia lumilor paralele
 
 45
 00:03:23,390 --> 00:03:26,823
@@ -700,7 +700,7 @@ Daru.
 
 165
 00:08:32,118 --> 00:08:34,794
-Asistent, trimite un
+Asistento, trimite un
 mail pe telefonul meu.
 
 166
@@ -1405,7 +1405,7 @@ numit „numărul de divergență”,
 330
 00:16:46,480 --> 00:16:51,200
 iar linia lumii se deplasează
-către o lume fără „A”.
+către o lume fără A.
 
 331
 00:16:51,940 --> 00:16:56,480
@@ -1415,12 +1415,12 @@ amintirile oamenilor sunt reconstruite.
 332
 00:16:56,480 --> 00:17:01,880
 Cu alte cuvinte, amintirile despre
-linia lumii în care „A” există sunt șterse,
+linia lumii în care A există sunt șterse,
 
 333
 00:17:01,880 --> 00:17:08,471
 fiind înlocuite cu amintiri despre
-o linie a lumii în care „A” a murit.
+o linie a lumii în care A a murit.
 
 334
 00:17:08,471 --> 00:17:13,388
@@ -1476,8 +1476,8 @@ Exact.
 
 345
 00:17:47,470 --> 00:17:53,500
-Am nevoie de abilitățile IBN
-5100 pentru a opri planurile lor.
+Am nevoie de abilitățile IBN 5100
+pentru a le opri planurile.
 
 346
 00:17:53,500 --> 00:17:58,460
@@ -1514,8 +1514,8 @@ Dacă mă contactați, vă voi răspunde.
 
 353
 00:18:17,440 --> 00:18:20,830
-{\an5}<font color=#dddddd>„În 2015, are loc al treilea război mondial. În 2036, Pământul este poluat de războiul nuclear. Tu ai călătorit în timp
-din 2036 pentru a obține un IBN 5100. IBN 5100 are o funcție ascunsă. Doar câțiva ingineri IBN știu acest lucru.”
+{\an5}<font color=#dddddd>În 2015, are loc al treilea război mondial. În 2036, Pământul este poluat de războiul nuclear. Tu ai călătorit în timp
+din 2036 pentru a obține un IBN 5100. IBN 5100 are o funcție ascunsă. Doar câțiva ingineri IBN știu acest lucru.
 
 354
 00:18:28,000 --> 00:18:30,720
@@ -1558,16 +1558,16 @@ Mayushii nu are destui bani de
 buzunar pentru a te răsfăța prea des.
 
 363
-00:18:58,040 --> 00:19:01,210
+00:18:58,040 --> 00:19:01,333
 În plus trebuie să cumpăr
 și cârnați Rai-Net!
 
 364
-00:19:01,210 --> 00:19:02,790
-Iar Upa?
+00:19:01,333 --> 00:19:03,079
+Din nou?
 
 365
-00:19:02,790 --> 00:19:05,920
+00:19:03,079 --> 00:19:05,920
 Așa că vreau să te bucuri de asta!
 
 366
@@ -1773,30 +1773,30 @@ Mai important, scrie ceva aici
 despre o mașină a timpului?
 
 414
-00:21:22,080 --> 00:21:24,780
+00:21:22,080 --> 00:21:25,129
 Expresia „mașină a timpului” nu apare,
 
 415
-00:21:24,780 --> 00:21:30,655
+00:21:25,129 --> 00:21:30,903
 dar în ultima lună, expresia „Programul Z”
 a fost folosită de peste o sută de ori.
 
 416
-00:21:30,680 --> 00:21:35,090
+00:21:30,928 --> 00:21:35,090
 „Programul Z: Raport de experiment 137”
 
 417
-00:21:36,080 --> 00:21:43,040
+00:21:36,438 --> 00:21:43,040
 "Deoarece scopul de a crea mini-găuri negre
 a fost deja stabilit, acel raport este omis."
 
 418
 00:21:44,283 --> 00:21:45,949
-Mini-găuri neagre...
+Mini-găuri negre...
 
 419
 00:21:45,949 --> 00:21:50,533
-Ei au declarat public că acele
+Dar ei au declarat public că acele
 experimente au fost un eșec.
 
 420
@@ -1805,65 +1805,69 @@ Ce altceva mai scrie?
 
 421
 00:21:51,941 --> 00:21:53,330
-„Rezultatul experimentului...”
+„Rezultatul experimentului...
 
 422
 00:21:56,953 --> 00:21:59,056
-„Omul este mort,
+Human is dead,
 
 423
 00:21:59,056 --> 00:22:00,670
-nepotrivire.”
+mismatch.”
 
 424
 00:22:01,417 --> 00:22:03,183
-Omul e mort?
+„Human is dead”?
 
 425
+00:22:04,013 --> 00:22:04,648
+Da.
+
+426
 00:22:05,575 --> 00:22:06,615
 Cineva...
 
-426
+427
 00:22:08,966 --> 00:22:09,996
 ...a murit.
 
-427
+428
 00:22:21,517 --> 00:22:29,437
 <i>Cu o viziune reglementată, nemiloasă,
 
-428
+429
 00:22:30,487 --> 00:22:38,257
 <i>Nu putem scăpa de cei 12 directori.
 
-429
+430
 00:22:38,257 --> 00:22:46,467
 <i>Am dori un mâine lipsit de neliniște,
 
-430
+431
 00:22:47,207 --> 00:22:55,627
 <i>Către orizontul fenomenului prețios aflat în mâinile noastre.
 
-431
+432
 00:22:55,652 --> 00:23:04,367
 <i>Legăminte închise, conturul unei dovezi false s-a materializat,
 
-432
+433
 00:23:04,367 --> 00:23:13,532
 <i>Universul vieții a gravat un timp orb.
 
-433
+434
 00:23:13,557 --> 00:23:22,142
 <i>Bate-ți aripile, fluture, fluturele miraculos – ți-l dăruiesc,
 
-434
+435
 00:23:22,167 --> 00:23:29,600
 <i>Un fluture al lacrimilor, un fluture strălucitor,
 
-435
+436
 00:23:29,625 --> 00:23:34,431
 <i>Totul poate fi rescris acum.
 
-436
+437
 00:23:40,332 --> 00:23:41,332
 Traducerea și adaptarea: Alexejhero
 alexejhero@gmail.com

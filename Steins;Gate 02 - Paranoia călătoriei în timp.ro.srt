@@ -150,7 +150,7 @@ Kyouma!
 
 38
 00:02:44,100 --> 00:02:49,140
-<font color="#999999">Paranoia Călătoriei în Timp
+<font color="#999999">Paranoia călătoriei în timp
 
 39
 00:02:49,660 --> 00:02:53,020
@@ -720,7 +720,7 @@ E un idiot care închiriază o cameră la etaj.
 
 173
 00:09:47,430 --> 00:09:49,674
-Nu sunt Okabe! Mă numesc Hououin-
+Nu sunt Okabe! Mă numesc Hououin—
 
 174
 00:09:49,570 --> 00:09:51,782
@@ -744,7 +744,7 @@ a fost donat laboratorului.
 178
 00:09:58,850 --> 00:10:01,064
 Dacă vrei și tu, prețul
-pe care va trebui să îl plă-
+pe care va trebui să îl plă—
 
 179
 00:10:00,890 --> 00:10:01,870
@@ -764,7 +764,7 @@ N-ai mai văzut?
 
 183
 00:10:06,580 --> 00:10:07,080
-Pot să-
+Pot să—
 
 184
 00:10:08,760 --> 00:10:13,570
@@ -1554,7 +1554,7 @@ pe care Mayuri le-a donat laboratorului.
 
 366
 00:20:10,458 --> 00:20:11,768
-Păi nu sunt ale ei-
+Păi, nu sunt ale ei—
 
 367
 00:20:11,660 --> 00:20:14,600

@@ -46,7 +46,7 @@ Hai să mergem.
 
 12
 00:01:04,690 --> 00:01:09,690
-<font color="#999999">Prologul Începutului și al Sfârșitului</font>
+<font color="#999999">Prologul începutului și al șfârșitului</font>
 
 13
 00:01:13,840 --> 00:01:15,780
@@ -1101,7 +1101,7 @@ Ai provocat deja destule pagube!
 
 261
 00:16:52,650 --> 00:16:54,610
-E vina ta că mi-ai dat ceva defe-
+E vina ta că mi-ai dat ceva defe—
 
 262
 00:16:53,820 --> 00:16:55,910
@@ -1134,7 +1134,7 @@ Astea înseamnă 2.000 de yeni.
 
 269
 00:17:11,500 --> 00:17:12,090
-Ce-
+Ce—
 
 270
 00:17:12,090 --> 00:17:13,570
@@ -1210,7 +1210,7 @@ Oh, Telefonul cu Microunde (nume temporar)?
 
 287
 00:18:19,280 --> 00:18:23,200
-Totuși, cum „activezi”
+Totuși, cum <i>activezi</i>
 un cuptor cu microunde?
 
 288
@@ -1337,7 +1337,7 @@ Nici nu se încălzește nici nu se răcește.
 317
 00:19:46,150 --> 00:19:49,588
 Ultima oară Puiul Prăjit Suculent
-Numărul 1 s-a făcut ca un ceai-
+Numărul 1 s-a făcut ca un ceai—
 
 318
 00:19:48,870 --> 00:19:52,330
@@ -1351,7 +1351,7 @@ Iar porcăria asta?
 320
 00:19:53,900 --> 00:19:56,500
 Daru, nu ai avea chef tu
-să mănânci aceste ba-
+să mănânci aceste ba—
 
 321
 00:19:55,840 --> 00:19:56,500
@@ -1385,7 +1385,7 @@ Mayushi...
 
 328
 00:20:12,310 --> 00:20:15,055
-Bine... Banana ta este-
+Bine... Banana ta este—
 
 329
 00:20:15,005 --> 00:20:16,800
@@ -1477,8 +1477,8 @@ Doar dă-mi-l!
 
 349
 00:21:17,630 --> 00:21:19,520
-Aceasta este o încălcare
-a vieții mele private! Nu te voi-
+Aceasta este o încălcare a
+vieții mele private! Nu te voi—
 
 350
 00:21:19,460 --> 00:21:20,590
@@ -1502,7 +1502,7 @@ Săptămâna trecută?
 
 355
 00:21:27,390 --> 00:21:30,510
-L-ai împărțit și în trei părți.
+L-ai și împărțit în trei părți.
 A fost tare enervant!
 
 356

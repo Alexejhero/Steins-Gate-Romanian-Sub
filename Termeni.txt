@@ -7,6 +7,7 @@ Nume și porecle
 - 鳳凰院凶真さん (Kurisu) -> Domnul Hououin Kyouma / Hououin Kyouma
 - 鳳凰院さん (Kurisu) -> Domnul Hououin
 - 凶真さん (Luka) -> Kyouma
+- 凶真 (Feiris) -> Kyouma
 
 椎名まゆり -> Shiina Mayuri
 - マユシィ・ニャンニャン -> Mayushii Miau-Miau
@@ -25,6 +26,7 @@ Nume și porecle
 - 天才少女 (Okabe) -> Fata genială
 - ザ・ゾンビ (Okabe) -> Zombiul
 - 牧瀬氏 (Daru) -> Domnișoara Makise
+- 牧瀬さん (Luka) -> Domnișoara Makise
 - 紅莉栖ちゃん (Mayuri) -> Kurisu
 
 桐生萌郁 -> Kiryuu Moeka
@@ -35,8 +37,12 @@ Nume și porecle
 
 フェイリス・ニャンニャン -> Feiris Miau-Miau
 - フェイリスたん (Daru) -> Feiris
+- フェリスちゃん (Mayuri) -> Feris
 
 阿万音鈴羽 -> Amane Suzuha
+- 鈴さん (Mayuri) -> Suzuha
+- バイト (Braun) -> Suzuha
+- バイト戦士 (Okabe) -> Soldat Part-Time
 
 ジョンタイター -> John Titor
 
@@ -73,3 +79,12 @@ Episodul 2
 妖刀五月雨 -> Sabia Magică Samidare
 ＠ちゃんねる -> Forumul @channel
 ご主人様 -> Stăpân
+ギアナ高地 -> Țările din Guiana
+
+Episodul 3
+Zプログラム -> Programul Z
+
+Episodul 4
+ゼリーマンズレポート -> Raportul Jellyman
+スターダストシェイクハンド -> Strângere de mână stelară
+雷ネットバトル -> Rai-Net Access Battlers
