@@ -13,14 +13,14 @@ Nume și porecle
 椎名まゆり -> Shiina Mayuri
 - マユシィ・ニャンニャン -> Mayushii Miau-Miau
 - まゆしぃ (Mayuri) -> Mayushii
-- まゆ氏 (Daru) -> Mayu-shi
-- まゆりちゃん (Braun) -> Mayuri-chan
+- まゆ氏 (Daru) -> Mayushi
+- まゆりちゃん (Braun) -> Mayuri
 
 橋田至 -> Hashida Itaru
 - スーパーハカー (Okabe) -> Super Hacher
 - ハッカー (Daru) -> Hacker
 - ダル (Okabe) -> Daru
-- ダルくん (Mayuri) -> Daru-kun
+- ダルくん (Mayuri) -> Daru
 - 橋田さん (Kurisu) -> Hashida
 
 牧瀬紅莉栖 -> Makise Kurisu
@@ -39,8 +39,8 @@ Nume și porecle
 - るかくん (Mayuri) -> Luka
 
 フェイリス・ニャンニャン -> Feiris Miau-Miau
-- フェイリスたん (Daru) -> Feiris-tan
-- フェリスちゃん (Mayuri) -> Feris-chan
+- フェイリスたん (Daru) -> Feiris
+- フェリスちゃん (Mayuri) -> Feris
 
 阿万音鈴羽 -> Amane Suzuha
 - 鈴さん (Mayuri) -> Suzuha
@@ -52,9 +52,9 @@ Nume și porecle
 中鉢 -> Nakabachi
 
 天王寺裕吾 -> Yuugo Tennouji
-- 寺裕吾さん -> Tennouji-san
+- 寺裕吾さん -> Domnul Tennouji
 - ミスターブラウン (Okabe) -> Domnul Braun
-- ブラウンしぃ (Daru) -> Domnul Braun
+- ブラウン氏 (Daru) -> Domnul Braun
 
 Termeni în ordinea apariției
 
@@ -65,7 +65,6 @@ Episodul 1
 うーぱ -> Upa
 メール -> Mail
 未来ガジェット -> Invenție a Viitorului
-トゥットゥルー -> Tutturu
 未来ガジェット研究所 -> Laboratorul de Invenții ale Viitorului
 ラジ館 -> Clădirea Radio
 シュタインズゲート -> Steins Gate

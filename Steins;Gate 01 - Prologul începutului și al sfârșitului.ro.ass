@@ -47,21 +47,56 @@ Dialogue: 0,0:00:27.96,0:00:30.00,Default,,0000,0000,0000,,Istoria ne-a dovedit 
 Dialogue: 0,0:00:31.88,0:00:37.80,Default,,0000,0000,0000,,Ai putea spune că acesta este ultimul avertisment divin pentru cei ce se împotrivesc.
 Dialogue: 0,0:00:41.14,0:00:42.43,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:00:50.15,0:00:51.57,Default,,0000,0000,0000,,Să mergem.
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,584,1280,594)\pos(923,650)\fsp-1\blur0.8\1c&H636461&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 2,{\clip(0,594,1280,604)\pos(923,650)\fsp-1\blur0.8\1c&H646366&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 3,{\clip(0,604,1280,614)\pos(923,650)\fsp-1\blur0.8\1c&H65636C&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 4,{\clip(0,614,1280,624)\pos(923,650)\fsp-1\blur0.8\1c&H666272&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 5,{\clip(0,624,1280,634)\pos(923,650)\fsp-1\blur0.8\1c&H686278&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 6,{\clip(0,634,1280,644)\pos(923,650)\fsp-1\blur0.8\1c&H69627E&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 7,{\clip(0,644,1280,654)\pos(923,650)\fsp-1\blur0.8\1c&H6A6282&}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,584,1280,594)\pos(1090,650)\fsp-1\blur0.8\1c&H636461&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 2,{\clip(0,594,1280,604)\pos(1090,650)\fsp-1\blur0.8\1c&H646366&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 3,{\clip(0,604,1280,614)\pos(1090,650)\fsp-1\blur0.8\1c&H65636C&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 4,{\clip(0,614,1280,624)\pos(1090,650)\fsp-1\blur0.8\1c&H666272&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 5,{\clip(0,624,1280,634)\pos(1090,650)\fsp-1\blur0.8\1c&H686278&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 6,{\clip(0,634,1280,644)\pos(1090,650)\fsp-1\blur0.8\1c&H69627E&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 7,{\clip(0,644,1280,654)\pos(1090,650)\fsp-1\blur0.8\1c&H6A6282&}începutului
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,,{\blur1\fsp-1\c&H6A6282&\pos(1022,695)}și al sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.8\1c&H656A7A&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.8\1c&H656A7C&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur0.8\1c&H66697F&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur0.8\1c&H676981&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur0.8\1c&H676884&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur0.8\1c&H686886&\pos(923,650)}Prologul
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.8\1c&H656A7A&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.8\1c&H656A7C&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur0.8\1c&H66697F&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur0.8\1c&H676981&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur0.8\1c&H676884&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur0.8\1c&H686886&\pos(1085,640)}începutului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.8\1c&H656A7A&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.8\1c&H656A7C&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur0.8\1c&H66697F&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur0.8\1c&H676981&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur0.8\1c&H676884&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur0.8\1c&H686886&\pos(1000,690)}și
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.8\1c&H656A7A&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.8\1c&H656A7C&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur0.8\1c&H66697F&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur0.8\1c&H676981&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur0.8\1c&H676884&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur0.8\1c&H686886&\pos(1030,685)}al
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.8\1c&H656A7A&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.8\1c&H656A7C&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur0.8\1c&H66697F&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur0.8\1c&H676981&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur0.8\1c&H676884&\pos(1125,700)}sfârșitului
+Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur0.8\1c&H686886&\pos(1125,700)}sfârșitului
 Dialogue: 0,0:01:13.88,0:01:16.01,Default,,0000,0000,0000,,Sunt pe cale să mă infiltrez.
 Dialogue: 0,0:01:16.01,0:01:18.55,Default,,0000,0000,0000,,El Psy Kongroo.
 Dialogue: 0,0:01:23.56,0:01:25.43,Default,,0000,0000,0000,,Nu sunt mulți oameni aici.
@@ -282,10 +317,10 @@ Dialogue: 0,0:13:22.61,0:13:25.65,Default,,0000,0000,0000,,Crearea invențiilor 
 Dialogue: 0,0:13:25.65,0:13:26.86,Default,,0000,0000,0000,,Înțelegi?
 Dialogue: 0,0:13:26.86,0:13:30.37,Default,,0000,0000,0000,,Dacă înțelegi, grăbește-te și spune-mi secretele tale!
 Dialogue: 0,0:13:30.37,0:13:33.24,Default,,0000,0000,0000,,Hei, mă întreb dacă noi suntem doar un joc
-Dialogue: 0,0:13:33.24,0:13:36.25,Default,,0000,0000,0000,,prin ochii lui Alpacaman-san.
+Dialogue: 0,0:13:33.24,0:13:36.25,Default,,0000,0000,0000,,prin ochii lui Alpacaman.
 Dialogue: 0,0:13:36.25,0:13:38.75,Default,,0000,0000,0000,,Nu este ca și cum ar avea capacitatea de a
 Dialogue: 0,0:13:38.75,0:13:40.63,Default,,0000,0000,0000,,înțelege conceptele de joc și de realitate.
-Dialogue: 0,0:13:40.63,0:13:44.71,Default,,0000,0000,0000,,Atunci și fetele 2D care îi plac lui Daru-kun sunt la fel?
+Dialogue: 0,0:13:40.63,0:13:44.71,Default,,0000,0000,0000,,Atunci și fetele 2D care îi plac lui Daru sunt la fel?
 Dialogue: 0,0:13:44.71,0:13:46.05,Default,,0000,0000,0000,,Nu, e diferit.
 Dialogue: 0,0:13:46.05,0:13:48.18,Default,,0000,0000,0000,,Ele sunt soțiile mele.
 Dialogue: 0,0:13:48.18,0:13:50.84,Default,,0000,0000,0000,,Nimănui nu-i pasă de soțiile tale.
@@ -334,9 +369,9 @@ Dialogue: 0,0:15:41.58,0:15:44.79,Default,,0000,0000,0000,,Mi-a manipulat Organi
 Dialogue: 0,0:15:46.25,0:15:47.34,Default,,0000,0000,0000,,Înțeleg!
 Dialogue: 0,0:15:47.34,0:15:50.59,Default,,0000,0000,0000,,Aceasta este alegerea Steins Gate!
 Dialogue: 0,0:15:52.97,0:15:54.55,Default,,0000,0000,0000,,Scenariu nou?
-Dialogue: 0,0:15:54.55,0:15:58.85,Default,,0000,0000,0000,,Chestia aia Stein-nu știu cum nu are sens, știi asta?
+Dialogue: 0,0:15:54.55,0:15:58.85,Default,,0000,0000,0000,,Chestia aia Stein-nu-știu-cum nu are sens, știi asta?
 Dialogue: 0,0:16:00.31,0:16:02.35,Default,,0000,0000,0000,,Daru! Dă-mi Invenția Viitorului #1!
-Dialogue: 0,0:16:02.35,0:16:06.98,Default,,0000,0000,0000,,Alpacaman-san s-a supărat\Npentru că ai schimbat canalul.
+Dialogue: 0,0:16:02.35,0:16:06.98,Default,,0000,0000,0000,,Alpacaman s-a supărat pentru că ai schimbat canalul.
 Dialogue: 0,0:16:11.57,0:16:13.07,Default,,0000,0000,0000,,La naiba, domnule Braun!
 Dialogue: 0,0:16:13.07,0:16:14.74,Default,,0000,0000,0000,,Dându-ne acest rahat...
 Dialogue: 0,0:16:14.74,0:16:16.91,Default,,0000,0000,0000,,L-am primit pe gratis, nu?
@@ -346,7 +381,7 @@ Dialogue: 0,0:16:21.04,0:16:23.08,Default,,0000,0000,0000,,E atât de cald azi..
 Dialogue: 0,0:16:23.08,0:16:26.83,Default,,0000,0000,0000,,Și să nu crezi că sunt puternic doar pentru că sunt gras.
 Dialogue: 0,0:16:28.09,0:16:29.63,Default,,0000,0000,0000,,Nu te mândri cu asta!
 Dialogue: 0,0:16:32.05,0:16:34.63,Default,,0000,0000,0000,,Domnule... Braun!
-Dialogue: 0,0:16:35.26,0:16:37.47,Default,,0000,0000,0000,,Ți-am spus să-mi spui Tennouji-san.
+Dialogue: 0,0:16:35.26,0:16:37.47,Default,,0000,0000,0000,,Ți-am spus să-mi spui domnul Tennouji.
 Dialogue: 0,0:16:39.26,0:16:42.68,Default,,0000,0000,0000,,Aș dori să te rog să repari imediat aceast televizor.
 Dialogue: 0,0:16:42.68,0:16:44.98,Default,,0000,0000,0000,,L-ai stricat deja?
 Dialogue: 0,0:16:45.56,0:16:48.56,Default,,0000,0000,0000,,Nu ai destulă dragoste pentru televizoarele CRT.
@@ -354,7 +389,7 @@ Dialogue: 0,0:16:48.56,0:16:50.15,Default,,0000,0000,0000,,Te va costa 1.000 de 
 Dialogue: 0,0:16:51.07,0:16:53.99,Default,,0000,0000,0000,,Tu ești de vină, nu eu! Mi-ai dat ceva defe—
 Dialogue: 0,0:16:53.99,0:16:56.41,Default,,0000,0000,0000,,Așa vorbești tu cu proprietarul tău?
 Dialogue: 0,0:16:56.41,0:16:58.24,Default,,0000,0000,0000,,Bine, voi plăti.
-Dialogue: 0,0:16:58.24,0:17:01.87,Default,,0000,0000,0000,,Mayuri-chan, ar trebui să renunți la tipul ăsta.
+Dialogue: 0,0:16:58.24,0:17:01.87,Default,,0000,0000,0000,,Mayuri, ar trebui să renunți la tipul ăsta.
 Dialogue: 0,0:17:01.87,0:17:05.37,Default,,0000,0000,0000,,Dar Mayushii este ostatica lui Okarin.
 Dialogue: 0,0:17:05.37,0:17:06.92,Default,,0000,0000,0000,,Ostatică, spui?
 Dialogue: 0,0:17:08.63,0:17:10.30,Default,,0000,0000,0000,,Și aici e stricat?
@@ -406,7 +441,7 @@ Dialogue: 0,0:19:36.15,0:19:37.02,Default,,0000,0000,0000,,Nu?
 Dialogue: 0,0:19:37.02,0:19:38.23,Default,,0000,0000,0000,,Nu.
 Dialogue: 0,0:19:41.44,0:19:42.74,Default,,0000,0000,0000,,Același rezultat.
 Dialogue: 0,0:19:42.74,0:19:46.12,Default,,0000,0000,0000,,Nici nu se încălzește nici nu se răcește.
-Dialogue: 0,0:19:46.12,0:19:49.12,Default,,0000,0000,0000,,Ultima oară Puiul Prăjit Suculent #1 de la Mayushii a fost înghețat...
+Dialogue: 0,0:19:46.12,0:19:49.12,Default,,0000,0000,0000,,Ultima oară Puiul Prăjit Suculent #1 \Nal lui Mayushii a fost înghețat...
 Dialogue: 0,0:19:49.12,0:19:52.50,Default,,0000,0000,0000,,Indiferent, orice se întâmplă aici în mod\Nclar are de-a face cu Steins Gate.
 Dialogue: 0,0:19:52.50,0:19:53.79,Default,,0000,0000,0000,,Iar porcăria asta?
 Dialogue: 0,0:19:53.79,0:19:56.96,Default,,0000,0000,0000,,Daru, nu ai avea chef tu\Nsă mănânci aceste ba—
@@ -415,13 +450,13 @@ Dialogue: 0,0:19:56.96,0:19:59.75,Default,,0000,0000,0000,,Atunci îi voi acorda
 Dialogue: 0,0:19:59.75,0:20:04.51,Default,,0000,0000,0000,,Știi, gel-nanele sunt\Ncam alunecoase și moi.
 Dialogue: 0,0:20:04.51,0:20:05.94,Default,,0000,0000,0000,,Și nu au gust de nimic.
 Dialogue: 0,0:20:05.94,0:20:06.76,Default,,0000,0000,0000,,Ai mâncat una?
-Dialogue: 0,0:20:06.76,0:20:07.72,Default,,0000,0000,0000,,Mayu-shi?
+Dialogue: 0,0:20:06.76,0:20:07.72,Default,,0000,0000,0000,,Mayushi?
 Dialogue: 0,0:20:08.68,0:20:12.43,Default,,0000,0000,0000,,Te rog să spui „Banana ta este moale”.
 Dialogue: 0,0:20:13.35,0:20:14.90,Default,,0000,0000,0000,,Bine... Banana ta este—
 Dialogue: 0,0:20:14.90,0:20:16.86,Default,,0000,0000,0000,,Nu o face să spună asta, perversule!
 Dialogue: 0,0:20:21.82,0:20:24.61,Default,,0000,0000,0000,,Vai... Mă topesc...
 Dialogue: 0,0:20:24.61,0:20:27.78,Default,,0000,0000,0000,,Am ieșit din laborator de mai puțin de zece minute.
-Dialogue: 0,0:20:28.28,0:20:32.50,Default,,0000,0000,0000,,Când e cald nu pot merge mai departe decât unde lucrează Feiris-tan.
+Dialogue: 0,0:20:28.28,0:20:32.50,Default,,0000,0000,0000,,Când e cald nu pot merge mai departe decât unde lucrează Feiris.
 Dialogue: 0,0:20:32.50,0:20:36.46,Default,,0000,0000,0000,,Mi-aș dori să poată face aceste lucruri la MayQueen+Nyan².
 Dialogue: 0,0:20:36.46,0:20:39.59,Default,,0000,0000,0000,,Nu va ține nimeni un curs la o cafenea cu servitoare.
 Dialogue: 0,0:20:40.63,0:20:44.34,Default,,0000,0000,0000,,Dacă nu s-ar face prezența, nu m-aș duce niciodată.
