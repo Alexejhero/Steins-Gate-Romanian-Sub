@@ -37,13 +37,13 @@ Style: ED Eng,Gabriola,90,&H00FFFFFF,&H000000FF,&H327A8489,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.8\1c&H656A7A&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.8\1c&H656A7C&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur0.8\1c&H66697F&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur0.8\1c&H676981&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur0.8\1c&H676884&\pos(923,650)}Prologul
-Dialogue: 0,0:01:04.58,0:01:09.58,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur0.8\1c&H686886&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,574,1280,594)\fsp-1\blur0.8\1c&H626C70&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,594,1280,604)\fsp-1\blur0.8\1c&H636C72&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,604,1280,614)\fsp-1\blur0.8\1c&H636B75&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,614,1280,624)\fsp-1\blur0.8\1c&H646B77&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,624,1280,634)\fsp-1\blur0.9\1c&H656A7A&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,634,1280,644)\fsp-1\blur0.9\1c&H656A7C&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,644,1280,654)\fsp-1\blur1\1c&H66697F&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur1\1c&H676981&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur1\1c&H676884&\pos(923,650)}Prologul
+Dialogue: 0,0:02:44.11,0:02:49.03,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur1\1c&H686886&\pos(923,650)}Prologul

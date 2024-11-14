@@ -4,10 +4,11 @@ Nume și porecle
 - 鳳凰院凶真 -> Hououin Kyouma
 - 狂気のマッドサイエンティスト -> Savantul nebun
 - オカリン (Mayuri, Daru) -> Okarin
-- 岡部さん (Luka) -> Okabe
+- 岡部さん (Luka) -> Domnul Okabe
 - 鳳凰院凶真さん (Kurisu) -> Domnul Hououin Kyouma / Hououin Kyouma
 - 鳳凰院さん (Kurisu) -> Domnul Hououin
-- 凶真さん (Luka) -> Kyouma
+- 鳳凰院さん (Moeka) -> Hououin
+- 凶真さん (Luka) -> Domnul Kyouma
 - 凶真 (Feiris) -> Kyouma
 
 椎名まゆり -> Shiina Mayuri
@@ -50,6 +51,7 @@ Nume și porecle
 ジョンタイター -> John Titor
 
 中鉢 -> Nakabachi
+- 中鉢博士 -> Doctorul Nakabachi
 
 天王寺裕吾 -> Yuugo Tennouji
 - 寺裕吾さん -> Domnul Tennouji
@@ -72,12 +74,13 @@ Episodul 1
 電話レンジ（仮） -> Telefonul cu Microunde (nume temporar)
 ゲルバナ -> Gel-nană
 ジューシーからあげナンバーワン -> Puiul Prăjit Suculent #1
-メイクイーン+ニャン² -> MayQueen+Nyan²
+メイクイーン＋ニャン² -> MayQueen+Nyan²
 
 Episodul 2
 柳林神社 -> Altarul Yanabayashi
 妖刀五月雨 -> Sabia Magică Samidare
 ＠ちゃんねる -> Forumul @channel
+欧州素粒子原子核研究機構 -> Organizația Europeană pentru Fizica Particulelor și Cercetare Nucleară
 ご主人様 -> Stăpân
 ギアナ高地 -> Țările din Guiana
 
