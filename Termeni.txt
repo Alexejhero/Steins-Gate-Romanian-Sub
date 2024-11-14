@@ -22,7 +22,7 @@ Nume și porecle
 - ハッカー (Daru) -> Hacker
 - ダル (Okabe) -> Daru
 - ダルくん (Mayuri) -> Daru
-- 橋田さん (Kurisu) -> Hashida
+- 橋田さん (Kurisu) -> Domnul Hashida / Hashida
 
 牧瀬紅莉栖 -> Makise Kurisu
 - 牧瀬さん -> Domnișoara Makise
@@ -85,6 +85,8 @@ Episodul 2
 ギアナ高地 -> Țările din Guiana
 
 Episodul 3
+ダイバージェンス -> Divergență
+雷ネット -> Rai-Net
 Zプログラム -> Programul Z
 
 Episodul 4

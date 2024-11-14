@@ -162,7 +162,7 @@ Dialogue: 0,0:04:27.32,0:04:30.03,Default,,0000,0000,0000,,Atunci explică-ne, t
 Dialogue: 0,0:04:30.03,0:04:34.21,Default,,0000,0000,0000,,diferențele dintre teoria ta și cea a lui Titor!
 Dialogue: 0,0:04:35.33,0:04:36.37,Default,,0000,0000,0000,,Vino cu mine.
 Dialogue: 0,0:04:39.84,0:04:44.17,Default,,0000,0000,0000,,Dacă mă gândesc bine, am citit ceva\Ndestul de asemănător în cartea lui John Titor...
-Dialogue: 0,0:04:46.93,0:04:48.68,Default,,0000,0000,0000,,Cine eşti tu?!
+Dialogue: 0,0:04:46.93,0:04:48.68,Default,,0000,0000,0000,,Cine ești tu?!
 Dialogue: 0,0:04:48.68,0:04:50.51,Default,,0000,0000,0000,,Aș vrea să te întreb același lucru.
 Dialogue: 0,0:04:50.51,0:04:51.76,Default,,0000,0000,0000,,Ce?
 Dialogue: 0,0:04:52.35,0:04:55.39,Default,,0000,0000,0000,,Ai vrut să îmi spui ceva mai devreme.
@@ -236,7 +236,7 @@ Dialogue: 0,0:08:47.46,0:08:49.29,Default,,0000,0000,0000,,Ești foarte palid.
 Dialogue: 0,0:08:49.79,0:08:52.13,Default,,0000,0000,0000,,Cineva a fost ucis...
 Dialogue: 0,0:08:53.26,0:08:54.22,Default,,0000,0000,0000,,La etajul opt.
 Dialogue: 0,0:09:07.98,0:09:10.61,SignC2,,0000,0000,0000,,{\fs75\blur3\bord0\shad0\frz16\b1\c&HEFEDEC&\pos(591,80)}Către: {\c&HFEFFFF&}Daru
-Dialogue: 0,0:09:07.98,0:09:10.61,SignC2,,0000,0000,0000,,{\fs75\blur2\bord0\shad0\frz16.5\c&HEFEDEC&\pos(859,257)}Subject: {\c&HFEFFFF&}E grav
+Dialogue: 0,0:09:07.98,0:09:10.61,SignC2,,0000,0000,0000,,{\fs75\blur2\bord0\shad0\frz16.5\c&HEFEDEC&\pos(859,257)}Subiect: {\c&HFEFFFF&}E grav
 Dialogue: 0,0:09:07.98,0:09:10.61,SignC2,,0000,0000,0000,,{\fs65\blur2\bord0\shad0\frz16.5\an4\c&HF0F1EE&\pos(528,649)}Makise Kurisu a fost\Nînjunghiată...
 Dialogue: 0,0:09:07.98,0:09:10.61,SignC2,,0000,0000,0000,,{\fs65\blur10\bord0\shad0\frz16.5\an4\alpha&H80&\c&HF6F7F7&\pos(528,649)}Makise Kurisu a fost\Nînjunghiată...
 Dialogue: 0,0:09:10.61,0:09:11.40,SignD,,0000,0000,0000,,{\fr15\fs66\bord0\pos(640,232)\blur2\bord0\shad0\c&H897E84&}Trimite?
@@ -291,7 +291,7 @@ Dialogue: 0,0:12:21.80,0:12:24.72,Default,,0000,0000,0000,,În primul rând, mem
 Dialogue: 0,0:12:24.72,0:12:28.22,Default,,0000,0000,0000,,fondatorul laboratorului și savantul nebun...
 Dialogue: 0,0:12:28.22,0:12:30.85,Default,,0000,0000,0000,,Eu însumi, Hououin Kyouma!
 Dialogue: 0,0:12:30.85,0:12:33.48,Default,,0000,0000,0000,,Okarin sună mai drăguț totuși.
-Dialogue: 0,0:12:33.48,0:12:34.39,Default,,0000,0000,0000,,Linişte!
+Dialogue: 0,0:12:33.48,0:12:34.39,Default,,0000,0000,0000,,Liniște!
 Dialogue: 0,0:12:34.39,0:12:37.10,Default,,0000,0000,0000,,Okabe Rintarou este pur și\Nsimplu numele meu de acoperire.
 Dialogue: 0,0:12:37.60,0:12:39.86,Default,,0000,0000,0000,,În continuare, membru al laboratorului 002,
 Dialogue: 0,0:12:39.86,0:12:42.32,Default,,0000,0000,0000,,creatoarea de costume și singura fată din grup,
@@ -382,7 +382,7 @@ Dialogue: 0,0:16:23.08,0:16:26.83,Default,,0000,0000,0000,,Și să nu crezi că 
 Dialogue: 0,0:16:28.09,0:16:29.63,Default,,0000,0000,0000,,Nu te mândri cu asta!
 Dialogue: 0,0:16:32.05,0:16:34.63,Default,,0000,0000,0000,,Domnule... Braun!
 Dialogue: 0,0:16:35.26,0:16:37.47,Default,,0000,0000,0000,,Ți-am spus să-mi spui domnul Tennouji.
-Dialogue: 0,0:16:39.26,0:16:42.68,Default,,0000,0000,0000,,Aș dori să te rog să repari imediat aceast televizor.
+Dialogue: 0,0:16:39.26,0:16:42.68,Default,,0000,0000,0000,,Aș dori să te rog să repari imediat acest televizor.
 Dialogue: 0,0:16:42.68,0:16:44.98,Default,,0000,0000,0000,,L-ai stricat deja?
 Dialogue: 0,0:16:45.56,0:16:48.56,Default,,0000,0000,0000,,Nu ai destulă dragoste pentru televizoarele CRT.
 Dialogue: 0,0:16:48.56,0:16:50.15,Default,,0000,0000,0000,,Te va costa 1.000 de yeni.
