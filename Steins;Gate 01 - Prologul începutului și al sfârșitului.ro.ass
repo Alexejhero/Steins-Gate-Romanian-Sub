@@ -18,22 +18,22 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Estrangelo Edessa,57,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,95,100,0,0,1,2.2,0,2,30,30,26,1
 Style: Default-alt,Estrangelo Edessa,57,&H00CDCDCD,&H000000FF,&H00000000,&H96000000,0,0,0,0,95,100,0,0,1,2.2,0,2,30,30,26,1
 Style: Title1,Arno Pro,60,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,80,110,0,0,1,0,0,2,30,30,30,1
-Style: SignA,AGaramond LT,35,&H003F3F3F,&H000000FF,&H00434343,&H00000000,-1,0,0,0,95,100,0,0,1,0,0,8,1,1,10,0
-Style: SignB,Arial Rounded MT Bold,45,&H00393743,&H000000FF,&H00787FC2,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,0
-Style: SignC,Arial Rounded MT Bold,38,&H00F5F5F5,&H000000FF,&H0008090C,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,40,0
-Style: SignB2,Arial Rounded MT Bold,30,&H00423A43,&H000000FF,&H00787FC2,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,20,20,100,0
-Style: SignC2,Arial Rounded MT Bold,30,&H00E6E6E6,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,0
-Style: SignD,Arial Rounded MT Bold,26,&H008B7E84,&H000000FF,&H00F3EEE9,&H00000000,-1,0,0,0,100,100,0,15,1,2,0,2,20,20,40,0
+Style: SignA,AGaramond LT,35,&H003F3F3F,&H000000FF,&H00434343,&H00000000,-1,0,0,0,95,100,0,0,1,0,0,8,1,1,10,1
+Style: SignB,Arial Rounded MT Bold,45,&H00393743,&H000000FF,&H00787FC2,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,1
+Style: SignC,Arial Rounded MT Bold,38,&H00F5F5F5,&H000000FF,&H0008090C,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,40,1
+Style: SignB2,Arial Rounded MT Bold,30,&H00423A43,&H000000FF,&H00787FC2,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,20,20,100,1
+Style: SignC2,Arial Rounded MT Bold,30,&H00E6E6E6,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,1
+Style: SignD,Arial Rounded MT Bold,26,&H008B7E84,&H000000FF,&H00F3EEE9,&H00000000,-1,0,0,0,100,100,0,15,1,2,0,2,20,20,40,1
 Style: SignE,Commerce Black Condensed SSi,26,&H0060645F,&H000000FF,&H00FCFFFC,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,70,1
-Style: SignF,AGaramond LT,40,&H00D7DDDD,&H000000FF,&H00371F98,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,20,20,70,0
-Style: SignG,AGaramond LT,36,&H00434B8A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,220,20,70,0
+Style: SignF,AGaramond LT,40,&H00D7DDDD,&H000000FF,&H00371F98,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,20,20,70,1
+Style: SignG,AGaramond LT,36,&H00434B8A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,220,20,70,1
 Style: Cellphone,Arial,68,&H00EFEFEF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 Style: CellphoneL,Arial Rounded MT Bold,50,&H00DBDBDB,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,3,30,30,30,1
 Style: OP Romaji,nu-century-gothic,45,&H00100F11,&H000000FF,&H32FFFFFF,&H00000000,0,0,0,0,90,100,1,0,1,2,0,8,10,10,15,1
 Style: OP Romaji 2,nu-century-gothic,45,&H00100F11,&H000000FF,&H32FFFFFF,&H00000000,0,0,0,0,90,100,1,0,1,2,0,8,10,10,15,1
 Style: OP Eng,nu-century-gothic,45,&H00100F11,&H000000FF,&H32FFFFFF,&H00000000,-1,0,0,0,90,100,1,0,1,2,0,2,10,10,18,1
-Style: ED Romaji,Nueva Std Cond,46,&H00FFFFFF,&H000000FF,&H327A8489,&H00000000,0,0,0,0,110,100,1,0,1,4,0,8,10,10,15,1
-Style: ED Eng,Nueva Std Cond,46,&H00FFFFFF,&H000000FF,&H327A8489,&H00000000,0,0,0,0,110,100,1,0,1,4,0,2,10,10,10,1
+Style: ED Romaji,Gabriola,90,&H00FFFFFF,&H000000FF,&H327A8489,&H00000000,0,0,0,0,110.0,100,1,0,1,4,0,8,10,10,0,1
+Style: ED Eng,Gabriola,90,&H00FFFFFF,&H000000FF,&H327A8489,&H00000000,0,0,0,0,100.0,100,1.0,0,1,2.0,0,2,10,10,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -223,28 +223,28 @@ Dialogue: 0,0:10:17.09,0:10:18.34,Default,,0000,0000,0000,,Ce tot spui...
 Dialogue: 0,0:10:47.66,0:10:52.88,OP Romaji,,0000,0000,0000,,{\blur3}suujuuoku mono kodou no kazu sae
 Dialogue: 0,0:10:47.66,0:10:52.88,OP Eng,,0000,0000,0000,,{\blur3}Zeci de miliarde de inimi care bat
 Dialogue: 0,0:10:52.88,0:10:59.84,OP Romaji,,0000,0000,0000,,{\blur3}anata ni wa matataki teido no saji na toukyuu
-Dialogue: 0,0:10:52.88,0:10:59.84,OP Eng,,0000,0000,0000,,{\blur3}Pentru tine sunt doar o clipire, un scurt răgaz.
+Dialogue: 2,0:10:52.88,0:10:59.84,OP Eng,,0000,0000,0000,,{\blur3}Pentru tine sunt doar o clipire, un scurt r{\fnCentury Gothic}ă{\fn}gaz.
 Dialogue: 0,0:10:59.84,0:11:04.89,OP Romaji,,0000,0000,0000,,{\blur3}kako ni torawarete mirai wo nageku mo
-Dialogue: 0,0:10:59.84,0:11:04.89,OP Eng,,0000,0000,0000,,{\blur3}Chiar dacă te frămânți cu gândul la viitor, cufundat încă în trecut,
+Dialogue: 0,0:10:59.84,0:11:04.89,OP Eng,,0000,0000,0000,,{\blur3}Chiar dac{\fnCentury Gothic}ă{\fn} te fr{\fnCentury Gothic}ă{\fn}mân{\fnCentury Gothic}ț{\fn}i cu gândul la viitor, cufundat înc{\fnCentury Gothic}ă{\fn} în trecut,
 Dialogue: 0,0:11:04.89,0:11:10.77,OP Romaji,,0000,0000,0000,,{\blur3}chiri hitotsu gosan wo yurusanu hitsuzen
-Dialogue: 0,0:11:04.89,0:11:10.77,OP Eng,,0000,0000,0000,,{\blur3}Nici măcar un fir de praf nu va fi iertat de inevitabilul calcul al erorii.
+Dialogue: 0,0:11:04.89,0:11:10.77,OP Eng,,0000,0000,0000,,{\blur3}Nici m{\fnCentury Gothic}ă{\fn}car un fir de praf nu va fi iertat de inevitabilul calcul al erorii.
 Dialogue: 0,0:11:10.77,0:11:16.98,OP Romaji,,0000,0000,0000,,{\blur3}mugen ni hirogaru yume mo egaku mirai mo
-Dialogue: 0,0:11:10.77,0:11:16.98,OP Eng,,0000,0000,0000,,{\blur3}Visul care se extinde la „infinit” și viitorul pe care îl conturăm
+Dialogue: 0,0:11:10.77,0:11:16.98,OP Eng,,0000,0000,0000,,{\blur3}Visul care se extinde la „infinit” {\fnCentury Gothic}ș{\fn}i viitorul pe care îl contur{\fnCentury Gothic}ă{\fn}m
 Dialogue: 0,0:11:16.98,0:11:22.86,OP Romaji,,0000,0000,0000,,{\blur3}bokutachi ni yurusareta kyoei no genri
-Dialogue: 0,0:11:16.98,0:11:22.86,OP Eng,,0000,0000,0000,,{\blur3}Sunt drepturile iluzorii care ni s-au îngăduit.
+Dialogue: 0,0:11:16.98,0:11:22.86,OP Eng,,0000,0000,0000,,{\blur3}Sunt drepturile iluzorii care ni s-au îng{\fnCentury Gothic}ă{\fn}duit.
 Dialogue: 0,0:11:22.86,0:11:28.87,OP Romaji,,0000,0000,0000,,{\blur3\fad(0,250)}yuugen sore wa futatsu no hari ga shimesu
-Dialogue: 0,0:11:22.86,0:11:28.87,OP Eng,,0000,0000,0000,,{\blur3\fad(0,250)}„Finit” – acesta este semnul celor două ace
+Dialogue: 0,0:11:22.86,0:11:28.87,OP Eng,,0000,0000,0000,,{\blur3\fad(0,250)}„Finit” – acesta este semnul celor dou{\fnCentury Gothic}ă{\fn} ace
 Dialogue: 0,0:11:28.87,0:11:33.62,OP Romaji,,0000,0000,0000,,{\blur3\fad(250,0)}zankoku na yakujou to sentaku e
-Dialogue: 0,0:11:28.87,0:11:33.62,OP Eng,,0000,0000,0000,,{\blur3\fad(250,0)}Pentru un pact crud și o alegere.
+Dialogue: 0,0:11:28.87,0:11:33.62,OP Eng,,0000,0000,0000,,{\blur3\fad(250,0)}Pentru un pact crud {\fnCentury Gothic}ș{\fn}i o alegere.
 Dialogue: 0,0:11:33.62,0:11:35.50,OP Romaji,,0000,0000,0000,,{\blur3}Hacking to the Gate
 Dialogue: 0,0:11:35.50,0:11:42.80,OP Romaji,,0000,0000,0000,,{\blur3\fad(1000,0}dakara ima ichibyou goto ni sekaisen wo koete
-Dialogue: 0,0:11:35.50,0:11:42.80,OP Eng,,0000,0000,0000,,{\blur3\fad(1000,0}De aceea acum, din secundă în secundă, trec prin linii ale lumii
+Dialogue: 0,0:11:35.50,0:11:42.80,OP Eng,,0000,0000,0000,,{\blur3\fad(1000,0}De aceea acum, din secund{\fnCentury Gothic}ă{\fn} în secund{\fnCentury Gothic}ă{\fn}, trec prin linii ale lumii
 Dialogue: 0,0:11:42.80,0:11:47.81,OP Romaji,,0000,0000,0000,,{\blur3}kimi no sono egao mamoritai no sa
-Dialogue: 0,0:11:42.80,0:11:47.81,OP Eng,,0000,0000,0000,,{\blur3}Pentru că vreau să protejez acel zâmbet al tău.
+Dialogue: 0,0:11:42.80,0:11:47.81,OP Eng,,0000,0000,0000,,{\blur3}Pentru c{\fnCentury Gothic}ă{\fn} vreau s{\fnCentury Gothic}ă{\fn} protejez acel zâmbet al t{\fnCentury Gothic}ă{\fn}u.
 Dialogue: 0,0:11:47.81,0:11:54.73,OP Romaji,,0000,0000,0000,,{\blur3}soshite mata kanashimi no nai jikan no ruupu e to
-Dialogue: 0,0:11:47.81,0:11:54.73,OP Eng,,0000,0000,0000,,{\blur3}Și din nou, într-o buclă a timpului fără tristețe voi fi absorbit
+Dialogue: 0,0:11:47.81,0:11:54.73,OP Eng,,0000,0000,0000,,{\blur3}{\fnCentury Gothic}Ș{\fn}i din nou, într-o bucl{\fnCentury Gothic}ă{\fn} a timpului f{\fnCentury Gothic}ă{\fn}r{\fnCentury Gothic}ă{\fn} triste{\fnCentury Gothic}ț{\fn}e voi fi absorbit
 Dialogue: 0,0:11:54.73,0:12:00.94,OP Romaji,,0000,0000,0000,,{\blur3}nomikomarete yuku kodoku no kansokusha
-Dialogue: 0,0:11:54.73,0:12:00.94,OP Eng,,0000,0000,0000,,{\blur3}Devenind un observator izolat al singurătății.
+Dialogue: 0,0:11:54.73,0:12:00.94,OP Eng,,0000,0000,0000,,{\blur3}Devenind un observator izolat al singur{\fnCentury Gothic}ă{\fn}t{\fnCentury Gothic}ăț{\fn}ii.
 Dialogue: 0,0:12:04.20,0:12:05.91,Default,,0000,0000,0000,,Hei, tu, mizerabilule!
 Dialogue: 0,0:12:06.82,0:12:08.49,Default,,0000,0000,0000,,Ne poți vedea?
 Dialogue: 0,0:12:09.12,0:12:10.83,Default,,0000,0000,0000,,De ce nu răspunzi?
