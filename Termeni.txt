@@ -46,7 +46,7 @@ Nume și porecle
 阿万音鈴羽 -> Amane Suzuha
 - 鈴さん (Mayuri) -> Suzuha
 - バイト (Braun) -> Suzuha
-- バイト戦士 (Okabe) -> Soldat Part-Time
+- バイト戦士 (Okabe) -> Războinică Part-Time
 
 ジョンタイター -> John Titor
 
@@ -91,5 +91,6 @@ Zプログラム -> Programul Z
 
 Episodul 4
 ゼリーマンズレポート -> Raportul Jellyman
+小動物 -> Veveriță
 スターダストシェイクハンド -> Strângere de mână stelară
 雷ネットバトル -> Rai-Net Access Battlers
