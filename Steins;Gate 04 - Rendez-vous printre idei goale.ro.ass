@@ -128,9 +128,9 @@ Dialogue: 0,0:03:03.97,0:03:08.94,Title1,,0000,0000,0000,gradient @d35 1,{\clip(
 Dialogue: 0,0:03:03.97,0:03:08.94,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,654,1280,664)\fsp-1\blur1\1c&H676981&\pos(1065,695)}idei goale
 Dialogue: 0,0:03:03.97,0:03:08.94,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,664,1280,674)\fsp-1\blur1\1c&H676884&\pos(1065,695)}idei goale
 Dialogue: 0,0:03:03.97,0:03:08.94,Title1,,0000,0000,0000,gradient @d35 1,{\clip(0,674,1280,695)\fsp-1\blur1\1c&H686886&\pos(1065,695)}idei goale
-Dialogue: 0,0:03:06.63,0:03:08.97,Default,,0000,0000,0000,,și nu am ajuns acasă.
+Dialogue: 0,0:03:06.63,0:03:08.97,Default,,0000,0000,0000,,Sunt cam multe aici.
 Dialogue: 0,0:03:11.05,0:03:13.56,Default,,0000,0000,0000,,Atât eu cât și Daru am lucrat toată noaptea
-Dialogue: 0,0:03:13.56,0:03:15.14,Default,,0000,0000,0000,,and haven't been home.
+Dialogue: 0,0:03:13.56,0:03:15.14,Default,,0000,0000,0000,,și nu am ajuns acasă.
 Dialogue: 0,0:03:15.52,0:03:16.81,Default,,0000,0000,0000,,Și tot ce poartă Daru,
 Dialogue: 0,0:03:16.81,0:03:19.56,Default,,0000,0000,0000,,de la tricouri până la chiloți, este XXXL.
 Dialogue: 0,0:03:20.98,0:03:21.98,Default,,0000,0000,0000,,Feris!
@@ -165,7 +165,7 @@ Dialogue: 0,0:04:21.67,0:04:25.17,Default,,0000,0000,0000,,În orice caz, cum a�
 Dialogue: 0,0:04:25.17,0:04:26.67,Default,,0000,0000,0000,,Eu nu sunt puștoaică.
 Dialogue: 0,0:04:26.67,0:04:28.34,Default,,0000,0000,0000,,Sunt un adult și o războinică!
 Dialogue: 0,0:04:29.01,0:04:32.62,Default,,0000,0000,0000,,Îmi place privirea ta, Războinică Part-Time. Să nu o uiți niciodată.
-Dialogue: 0,0:04:32.62,0:04:35.80,Default,,0000,0000,0000,,Într-o bună zi, vei putea să devi o războinică adevărată...
+Dialogue: 0,0:04:32.62,0:04:35.80,Default,,0000,0000,0000,,Într-o bună zi, vei putea să devii o războinică adevărată...
 Dialogue: 0,0:04:35.80,0:04:37.22,Default,,0000,0000,0000,,Taci mă din gură.
 Dialogue: 0,0:04:37.22,0:04:37.89,Default,,0000,0000,0000,,Când vorbe—
 Dialogue: 0,0:04:37.89,0:04:40.31,Default,,0000,0000,0000,,După cum am spus, sunt deja o războinică!
@@ -549,7 +549,7 @@ Dialogue: 0,0:20:59.66,0:21:00.76,Default,,0000,0000,0000,,Chiar ai spus asta?
 Dialogue: 0,0:21:01.75,0:21:03.21,Default,,0000,0000,0000,,Sunteți prieteni buni, nu?
 Dialogue: 0,0:21:03.79,0:21:06.42,Default,,0000,0000,0000,,Fiți drăguți și cu Luka.
 Dialogue: 0,0:21:06.42,0:21:07.06,Default,,0000,0000,0000,,Da!
-Dialogue: 0,0:21:08.62,0:21:10.76,Default,,0000,0000,0000,,Așteaptați o clipă.
+Dialogue: 0,0:21:08.62,0:21:10.76,Default,,0000,0000,0000,,Așteptați o clipă.
 Dialogue: 0,0:21:13.18,0:21:14.76,Default,,0000,0000,0000,,Ai un tată drăguț.
 Dialogue: 0,0:21:15.49,0:21:16.55,Default,,0000,0000,0000,,Așa crezi?
 Dialogue: 0,0:21:17.14,0:21:19.81,Default,,0000,0000,0000,,{\i1}Nu vreau să fac aceeași greșeală ca tatăl meu!

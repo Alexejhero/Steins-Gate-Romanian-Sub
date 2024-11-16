@@ -8,6 +8,6 @@ Versurile pentru OP și ED au fost traduse folosind o combinație între DeepL s
 
 Am scos onorificele pentru că ar fi fost greu de înțeles, dar am încercat să adaptez cât de bine am putut în traducere
 
-Sincronizarea, poziționarea și stilul subtitrărilor a fost luate din subtitrările incluse în descărcarea MKV de pe archive.org
+Sincronizarea, poziționarea și stilul subtitrărilor au fost luate din subtitrările incluse în descărcarea MKV de pe archive.org
 
 Am folosit programul Subtitle Edit

@@ -305,7 +305,7 @@ Dialogue: 0,0:12:58.25,0:13:02.06,Default,,0000,0000,0000,,Hai, n-ar trebui să 
 Dialogue: 0,0:13:02.06,0:13:05.72,Default,,0000,0000,0000,,Nu ne putem aștepta la nimic de la\No porcărie de joc de 500 de yeni.
 Dialogue: 0,0:13:05.72,0:13:07.18,Default,,0000,0000,0000,,Ascultă aici!
 Dialogue: 0,0:13:06.84,0:13:17.06,SignE,,0000,0000,0000,,{\fs48\fnArnold 2.1\c&H5D6463&\fscx80\fscy120\move(682,219,682,476)}Laboratorul de Invenții ale Viitorului
-Dialogue: 0,0:13:06.84,0:13:17.06,SignE,,0000,0000,0000,,{\fs43\fnDFGKanTeiRyu-XB\b1\move(670,549,670,805)\fscx90}Atelier televizoare CRT
+Dialogue: 0,0:13:06.84,0:13:17.06,SignE,,0000,0000,0000,,{\fs43\fnDFGKanTeiRyu-XB\b1\move(670,549,670,805)\fscx90}Atelier de televizoare cu tub catodic
 Dialogue: 0,0:13:07.18,0:13:10.05,Default,,0000,0000,0000,,Pentru a găsi laboratorul nostru, mergi pe Chuoudoori,
 Dialogue: 0,0:13:10.05,0:13:11.56,Default,,0000,0000,0000,,apoi fă stânga pe Kuramaedoori
 Dialogue: 0,0:13:11.56,0:13:13.35,Default,,0000,0000,0000,,la intersecția Suehirochou.
@@ -337,7 +337,7 @@ Dialogue: 0,0:14:11.74,0:14:15.62,Default,,0000,0000,0000,,Omule, iar începi cu
 Dialogue: 0,0:14:15.62,0:14:17.41,Default,,0000,0000,0000,,Taci din gură, Super Hachere!
 Dialogue: 0,0:14:17.41,0:14:20.87,Default,,0000,0000,0000,,Eu sunt savantul nebun, Hououin...
 Dialogue: 0,0:14:21.58,0:14:22.84,Default,,0000,0000,0000,,Kyouma!
-Dialogue: 0,0:14:26.21,0:14:27.80,Default,,0000,0000,0000,,Deci ăsta e scenariul pe care l-ai ales?
+Dialogue: 0,0:14:26.21,0:14:27.80,Default,,0000,0000,0000,,Deci ăsta-i scenariul pe care l-ai ales?
 Dialogue: 0,0:14:27.80,0:14:29.13,Default,,0000,0000,0000,,Ce să mai zic, Daru.
 Dialogue: 0,0:14:29.13,0:14:33.51,Default,,0000,0000,0000,,Ai face bine să asculți cu atenție ce spun alții.
 Dialogue: 0,0:14:33.51,0:14:37.31,Default,,0000,0000,0000,,Tu ești ultima persoană de la care vreau să aud asta.
@@ -384,7 +384,7 @@ Dialogue: 0,0:16:32.05,0:16:34.63,Default,,0000,0000,0000,,Domnule... Braun!
 Dialogue: 0,0:16:35.26,0:16:37.47,Default,,0000,0000,0000,,Ți-am spus să-mi spui domnul Tennouji.
 Dialogue: 0,0:16:39.26,0:16:42.68,Default,,0000,0000,0000,,Aș dori să te rog să repari imediat acest televizor.
 Dialogue: 0,0:16:42.68,0:16:44.98,Default,,0000,0000,0000,,L-ai stricat deja?
-Dialogue: 0,0:16:45.56,0:16:48.56,Default,,0000,0000,0000,,Nu ai destulă dragoste pentru televizoarele CRT.
+Dialogue: 0,0:16:45.56,0:16:48.56,Default,,0000,0000,0000,,Nu ai destulă dragoste pentru televizoarele vechi.
 Dialogue: 0,0:16:48.56,0:16:50.15,Default,,0000,0000,0000,,Te va costa 1.000 de yeni.
 Dialogue: 0,0:16:51.07,0:16:53.99,Default,,0000,0000,0000,,Tu ești de vină, nu eu! Mi-ai dat ceva defe—
 Dialogue: 0,0:16:53.99,0:16:56.41,Default,,0000,0000,0000,,Așa vorbești tu cu proprietarul tău?
@@ -417,7 +417,7 @@ Dialogue: 0,0:18:27.16,0:18:32.29,Default,,0000,0000,0000,,În anul doi de liceu
 Dialogue: 0,0:18:32.29,0:18:34.04,Default,,0000,0000,0000,,Nu contează detaliile.
 Dialogue: 0,0:18:34.04,0:18:37.26,Default,,0000,0000,0000,,Oricum, a trecut mult timp.
 Dialogue: 0,0:18:37.26,0:18:40.59,Default,,0000,0000,0000,,Ce-ar fi să înveți odată să ții pasul cu conversațiile mele?
-Dialogue: 0,0:18:40.59,0:18:42.72,Default,,0000,0000,0000,,Asta e im-po-si-bil.
+Dialogue: 0,0:18:40.59,0:18:42.72,Default,,0000,0000,0000,,Asta e imposibil.
 Dialogue: 0,0:18:44.20,0:18:46.06,Default,,0000,0000,0000,,De fapt, vrei să încercăm din nou?
 Dialogue: 0,0:18:46.06,0:18:46.93,Default,,0000,0000,0000,,E totul gata.
 Dialogue: 0,0:18:46.93,0:18:48.02,Default,,0000,0000,0000,,Mayuri, adu bananele!

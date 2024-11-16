@@ -68,6 +68,7 @@ Episodul 1
 メール -> Mail
 未来ガジェット -> Invenție a Viitorului
 未来ガジェット研究所 -> Laboratorul de Invenții ale Viitorului
+ブラウン管工房 -> Atelier de televizoare cu tub catodic
 ラジ館 -> Clădirea Radio
 シュタインズゲート -> Steins Gate
 ドクペ -> Dr Pepper
@@ -94,3 +95,7 @@ Episodul 4
 小動物 -> Veveriță
 スターダストシェイクハンド -> Strângere de mână stelară
 雷ネットバトル -> Rai-Net Access Battlers
+
+Episodul 5
+リフター -> Liftor
+イオンクラフト -> Ionocraft
