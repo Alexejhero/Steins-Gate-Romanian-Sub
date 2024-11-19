@@ -23,6 +23,7 @@ Nume și porecle
 - ダル (Okabe) -> Daru
 - ダルくん (Mayuri) -> Daru
 - 橋田さん (Kurisu) -> Domnul Hashida / Hashida
+- マイ・フェイバリット・ライトアーム (Okabe) -> Mâna mea dreaptă favorită
 
 牧瀬紅莉栖 -> Makise Kurisu
 - 牧瀬さん -> Domnișoara Makise
@@ -47,6 +48,7 @@ Nume și porecle
 - 鈴さん (Mayuri) -> Suzuha
 - バイト (Braun) -> Suzuha
 - バイト戦士 (Okabe) -> Războinică Part-Time
+- 阿万音氏 (Daru) -> Domnișoara Amane
 
 ジョンタイター -> John Titor
 
@@ -99,3 +101,6 @@ Episodul 4
 Episodul 5
 リフター -> Liftor
 イオンクラフト -> Ionocraft
+
+Episodul 6
+Dメール -> D-mail

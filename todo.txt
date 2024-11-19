@@ -9,3 +9,6 @@ onomatopeea
 eu sunt
 capitalizarea poreclilor
 daru "mayushii"
+mesaje / mailuri
+split lines
+fix diacritics in cellphone font
