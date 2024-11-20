@@ -1,14 +1,22 @@
-Hououin Kyouma
+Hououin Kyouma-ify
 kakkokari
-numba#
-spacing
-?!
+no./nr./# consistency
+new line spacing consistency
 luka keigo
-onomatopeea
+verificare interjectii
 „”
-eu sunt
+eu sunt / sunt eu
 capitalizarea poreclilor
-daru "mayushii"
-mesaje / mailuri
-split lines
+daru "mayushii"/"mayushi"
+mesaje / mailuri consistenta
 fix diacritics in cellphone font
+suzuha sefu'/seful
+e/este consistency
+iisuse/doamne KINSHI
+not avoiding ok anymore
+el(.) psy(.) kongroo(.)
+kurisu/daru hentai traduceri mai bune
+experiment realizat/facut
+in ep 2 lukako
+contraction style for each character
+moeka mail sync (ffs)

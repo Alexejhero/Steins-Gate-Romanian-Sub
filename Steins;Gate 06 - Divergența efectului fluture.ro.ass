@@ -296,15 +296,15 @@ Dialogue: 0,0:12:50.70,0:12:53.46,Default,,0000,0000,0000,,Vă distrați acolo l
 Dialogue: 0,0:12:53.46,0:12:54.71,Default,,0000,0000,0000,,Într-adevăr.
 Dialogue: 0,0:12:54.71,0:12:57.21,Default,,0000,0000,0000,,Realizăm un experiment care va deveni legendar.
 Dialogue: 0,0:12:57.21,0:12:59.13,Default,,0000,0000,0000,,Nu-i problemă dacă e legendar...
-Dialogue: 0,0:12:59.74,0:13:02.51,Default,,0000,0000,0000,,Dar șeful este foarte supărat.
+Dialogue: 0,0:12:59.74,0:13:02.51,Default,,0000,0000,0000,,Dar șefu' e foarte supărat.
 Dialogue: 0,0:13:02.51,0:13:05.38,Default,,0000,0000,0000,,A spus că vibrațiile sunt foarte rele.
 Dialogue: 0,0:13:05.38,0:13:08.05,Default,,0000,0000,0000,,„Le voi mări chiria cu 10.000 de yeni!”
 Dialogue: 0,0:13:08.05,0:13:09.28,Default,,0000,0000,0000,,Sau ceva de genul.
 Dialogue: 0,0:13:10.31,0:13:11.85,Default,,0000,0000,0000,,10.000 de yeni?
 Dialogue: 0,0:13:11.85,0:13:13.85,Default,,0000,0000,0000,,Bine, lasă asta în seama mea.
 Dialogue: 0,0:13:14.24,0:13:17.06,Default,,0000,0000,0000,,Spune-i asistentei să oprească experimentele.
-Dialogue: 0,0:13:17.06,0:13:18.03,Default,,0000,0000,0000,,Recepționat.
-Dialogue: 0,0:13:18.03,0:13:20.94,Default,,0000,0000,0000,,Sacrificiul tău nu va fi în zadar.
+Dialogue: 0,0:13:17.06,0:13:18.12,Default,,0000,0000,0000,,Recepționat.
+Dialogue: 0,0:13:18.12,0:13:20.94,Default,,0000,0000,0000,,Sacrificiul tău nu va fi în zadar.
 Dialogue: 0,0:13:22.28,0:13:24.27,Default,,0000,0000,0000,,Makise Kurisu este încă acolo?
 Dialogue: 0,0:13:25.53,0:13:27.74,Default,,0000,0000,0000,,A, da. Ultima oară te holbai la ea.
 Dialogue: 0,0:13:28.66,0:13:31.12,Default,,0000,0000,0000,,Deci, ce treabă ai cu ea?
@@ -406,7 +406,7 @@ Dialogue: 0,0:16:43.27,0:16:46.02,Default,,0000,0000,0000,,Tu stai nemișcat acu
 Dialogue: 0,0:16:48.73,0:16:51.90,Default,,0000,0000,0000,,Spațiul și timpul și-au schimbat locul aici.
 Dialogue: 0,0:16:53.82,0:16:55.53,Default,,0000,0000,0000,,Orizontul evenimentelor?
 Dialogue: 0,0:16:56.41,0:16:59.78,Default,,0000,0000,0000,,Nu te poți deplasa prin spațiu.
-Dialogue: 0,0:17:00.37,0:17:03.04,Default,,0000,0000,0000,,Iar timpul se prelungește spre eternitate.
+Dialogue: 0,0:17:00.36,0:17:03.12,Default,,0000,0000,0000,,Iar timpul se prelungește spre eternitate.
 Dialogue: 0,0:17:03.62,0:17:07.54,Default,,0000,0000,0000,,O secundă pentru tine\Nva fi o eternitate pentru mine.
 Dialogue: 0,0:17:08.03,0:17:09.73,Default,,0000,0000,0000,,Spațiul se retrage?
 Dialogue: 0,0:17:09.88,0:17:12.26,Default,,0000,0000,0000,,Ba nu, se extinde.
@@ -416,7 +416,7 @@ Dialogue: 0,0:17:15.38,0:17:16.38,Default,,0000,0000,0000,,Sau eu?
 Dialogue: 0,0:17:17.38,0:17:19.29,Default,,0000,0000,0000,,Nu trebuie să privești înapoi.
 Dialogue: 0,0:17:19.78,0:17:21.73,Default,,0000,0000,0000,,Eternitatea nu este infinită.
 Dialogue: 0,0:17:22.37,0:17:25.39,Default,,0000,0000,0000,,Chiar dacă timpul se prelungește spre eternitate,
-Dialogue: 0,0:17:25.90,0:17:28.60,Default,,0000,0000,0000,,un sfârșit există încă.
+Dialogue: 0,0:17:25.90,0:17:28.60,Default,,0000,0000,0000,,un sfârșit există mereu.
 Dialogue: 0,0:17:34.07,0:17:37.16,Default,,0000,0000,0000,,Când va trece o secundă?
 Dialogue: 0,0:17:37.91,0:17:39.22,Default,,0000,0000,0000,,Privește înainte.
 Dialogue: 0,0:17:39.88,0:17:41.45,Default,,0000,0000,0000,,Urmează calea.
@@ -471,7 +471,7 @@ Dialogue: 0,0:18:18.03,0:18:19.74,CellphoneLbak,,0000,0000,0000,,{\fr-11\fs39\be
 Dialogue: 0,0:18:18.03,0:18:19.74,CellphoneL,,0000,0000,0000,,{\fr-11\fs39\be2\c&H787777&\pos(600,205)}Deget-Fulger
 Dialogue: 0,0:18:18.03,0:18:19.74,CellphoneLbak,,0000,0000,0000,,{\fr-11\fs39\be2\c&H787777&\pos(558,267)\fscx275\fscy102\3c&H1E2327&}A
 Dialogue: 0,0:18:18.03,0:18:19.74,CellphoneL,,0000,0000,0000,,{\fr-11\fs39\be2\c&H787777&\pos(558,265)}Sunt în fața ușii
-Dialogue: 0,0:18:18.03,0:18:19.74,CellphoneL,,0000,0000,0000,,{\fr-11\pos(389,466)\fs39\be2\c&H60605D&}Dacă ești înăuntru, te rog să imi\Ndeschizi.\NMoeka
+Dialogue: 0,0:18:18.03,0:18:19.74,CellphoneL,,0000,0000,0000,,{\fr-11\pos(389,466)\fs39\be2\c&H60605D&}Dacă ești înăuntru, te rog să îmi\Ndeschizi.\NMoeka
 Dialogue: 0,0:18:28.16,0:18:29.17,CellphoneL,,0000,0000,0000,,{\fr-16\fs19\be1\c&H848484&\pos(680,208)}Ai zis că pot veni, nu-i așa?\NMoeka
 Dialogue: 0,0:18:30.46,0:18:31.88,Default,,0000,0000,0000,,De ce-mi trimiți mail?
 Dialogue: 0,0:18:31.88,0:18:33.29,Default,,0000,0000,0000,,Sunt chiar în fața ta.
