@@ -16,6 +16,7 @@ Nume și porecle
 - まゆしぃ (Mayuri) -> Mayushii
 - まゆ氏 (Daru) -> Mayushi
 - まゆりちゃん (Braun) -> Mayuri
+- まゆりお姉ちゃん (Nae) -> Mayuri
 
 橋田至 -> Hashida Itaru
 - スーパーハカー (Okabe) -> Super Hacher
@@ -39,11 +40,14 @@ Nume și porecle
 桐生萌郁 -> Kiryuu Moeka
 - 閃光の指圧師 (Okabe) -> Deget-Fulger
 - 萌郁さん (Mayuri) -> Moeka
+- 桐生さん (Kurisu) -> Kiryuu
 
 漆原るか -> Urushibara Luka
 - るかくん (Mayuri) -> Luka
+- るかちゃん (Mayuri) -> Luka
 - るか子 (Okabe) -> Lukako
 - るか氏 (Daru) -> Luka{shi}
+- 漆原さん (Kurisu) -> Luka
 
 フェイリス・ニャンニャン -> Feiris Miau-Miau
 - フェイリスたん (Daru) -> Feiris
@@ -113,7 +117,8 @@ Episodul 5
 Episodul 6
 Dメール -> D-mail
 
-
+Episodul 8
+リーディングシュタイナー -> Reading Steiner
 
 TOT PIERD CARACTERUL ASTA :)))
 —
