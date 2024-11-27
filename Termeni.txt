@@ -9,7 +9,6 @@ Nume și porecle
 - 鳳凰院さん (Kurisu) -> Domnul Hououin
 - 鳳凰院さん (Moeka) -> Hououin
 - 凶真さん (Luka) -> Domnul Kyouma
-- 凶真 (Feiris) -> Kyouma
 
 椎名まゆり -> Shiina Mayuri
 - マユシィ・ニャンニャン -> Mayushii Miau-Miau
@@ -25,6 +24,7 @@ Nume și porecle
 - ダルくん (Mayuri) -> Daru
 - 橋田さん (Kurisu) -> Domnul Hashida / Hashida
 - マイ・フェイバリット・ライトアーム (Okabe) -> Mâna mea dreaptă favorită
+- ダルニャー (Feiris) -> Daru
 
 牧瀬紅莉栖 -> Makise Kurisu
 - 牧瀬さん -> Domnișoara Makise
@@ -119,6 +119,9 @@ Dメール -> D-mail
 
 Episodul 8
 リーディングシュタイナー -> Reading Steiner
+
+Episodul 9
+萌え文化 -> Cultura drăgălășeniei
 
 TOT PIERD CARACTERUL ASTA :)))
 —

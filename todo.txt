@@ -1,24 +1,31 @@
-Hououin Kyouma-ify
-kakkokari
-no./nr./# consistency
-new line spacing consistency
-luka keigo
+Hououin Kyouma-ify tot ce spune
+adauga kakkokari unde lipseste
+consistenta la numarare: no./nr./#
+consistenta auto split vs manual line split
+adaugare keigo pt luka
 verificare interjectii
-„”
-eu sunt / sunt eu
-capitalizarea poreclilor
+schimbare ghilimele romanesti „”
+okabe eu sunt / sunt eu
+capitalizarea poreclilor (poate)
 daru "mayushii"/"mayushi"
 mesaje / mailuri consistenta
 fix diacritics in cellphone font
 suzuha sefu'/seful
-e/este consistency
-iisuse/doamne KINSHI
+e/este consistenta pt fiecare personaj
+scoate iisuse/doamne
 not avoiding ok anymore
-el(.) psy(.) kongroo(.)
+el(.) psy(.) kongroo(.) consistenta
 kurisu/daru hentai traduceri mai bune
-experiment realizat/facut
+experiment "realizat"/"facut"
 in ep 2 lukako
-contraction style for each character
-moeka mail sync (ffs)
+contraction style for each character (cratimi si prescurtari)
+moeka subtitle mail sync (ffs)
 check title for ep 4/5, 6/7, 8/9/10
 {lowangle}
+redo op and ed
+naruhodou/sokka/etc sa sune bine
+"altarul"/"Altarul" Yanabayashi
+faris and mayuri first person pronouns
+add more nyas faris
+mayuri "feiris"/"feris"
+"Loto 6"/"Loto-6"
